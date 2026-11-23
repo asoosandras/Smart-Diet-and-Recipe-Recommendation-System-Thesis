@@ -1,0 +1,737 @@
+﻿category;pantry_item;staple;ingredient;ingredient_id;recipes;source
+Baking;almond extract;False;almond extract;77;1471;own item (>= 300 recipes)
+Baking;baking mix;False;bisquick;537;356;manual group
+Baking;baking mix;False;bisquick baking mix;538;310;manual group
+Baking;baking powder;False;baking powder;332;13531;own item (>= 300 recipes)
+Baking;baking soda;False;baking soda;335;11093;own item (>= 300 recipes)
+Baking;butterscotch chip;False;butterscotch chip;882;381;own item (>= 300 recipes)
+Baking;cake mix;False;cake mix;912;2237;own item (>= 300 recipes)
+Baking;candy bar;False;candy bar;954;314;own item (>= 300 recipes)
+Baking;chocolate;False;chocolate;1375;815;manual group
+Baking;chocolate;False;bittersweet chocolate;547;369;manual group
+Baking;chocolate;False;dark chocolate;2048;356;manual group
+Baking;chocolate;False;unsweetened chocolate;7402;339;manual group
+Baking;chocolate;False;white chocolate;7726;318;manual group
+Baking;chocolate;False;unsweetened baking chocolate;7397;68;manual group
+Baking;chocolate chips;False;chocolate chip;1388;4120;manual group
+Baking;chocolate chips;False;white chocolate chip;7731;469;manual group
+Baking;chocolate chips;False;milk chocolate chip;4722;394;manual group
+Baking;chocolate syrup;False;chocolate syrup;1447;495;own item (>= 300 recipes)
+Baking;cocoa powder;False;cocoa;1584;1395;manual group
+Baking;cocoa powder;False;cocoa powder;1589;1071;manual group
+Baking;cocoa powder;False;unsweetened cocoa powder;7407;767;manual group
+Baking;cocoa powder;False;unsweetened cocoa;7406;391;manual group
+Baking;cornstarch;False;cornstarch;1833;5580;manual group
+Baking;cornstarch;False;cornflmy;1828;488;manual group
+Baking;cream of tartar;False;cream of tartar;1925;686;own item (>= 300 recipes)
+Baking;flour;False;flour;2683;34242;manual group
+Baking;flour;False;bread flour;721;722;manual group
+Baking;flour;False;unbleached flour;7358;671;manual group
+Baking;flour;False;cake flour;911;422;manual group
+Baking;flour;False;self-rising flour;6395;377;manual group
+Baking;flour;False;self raising flour;6389;362;manual group
+Baking;flour;False;self-raising flour;6391;332;manual group
+Baking;instant chocolate pudding mix;False;instant chocolate pudding mix;3865;310;own item (>= 300 recipes)
+Baking;instant vanilla pudding;False;instant vanilla pudding;3910;361;own item (>= 300 recipes)
+Baking;marshmallow;False;marshmallow;4595;705;manual group
+Baking;marshmallow;False;ature marshmallow;241;491;manual group
+Baking;red food coloring;False;red food coloring;5947;340;own item (>= 300 recipes)
+Baking;unflavored gelatin;False;unflavored gelatin;7363;339;own item (>= 300 recipes)
+Baking;vanilla;False;vanilla;7449;10395;manual group
+Baking;vanilla;False;vanilla extract;7470;8096;manual group
+Baking;vanilla;False;vanilla essence;7469;349;manual group
+Baking;vanilla;False;vanilla bean;7452;277;manual group
+Baking;whole wheat flour;False;whole wheat flour;7887;2352;own item (>= 300 recipes)
+Baking;yeast;False;yeast;7956;2691;own item (>= 300 recipes)
+Canned goods & broths;beef broth;False;beef broth;437;1959;manual group
+Canned goods & broths;beef broth;False;beef stock;485;683;manual group
+Canned goods & broths;beef broth;False;beef bouillon cube;432;477;manual group
+Canned goods & broths;beef broth;False;beef bouillon;430;157;manual group
+Canned goods & broths;beef broth;False;beef consomme;444;127;manual group
+Canned goods & broths;canned pumpkin;False;canned pumpkin;1013;406;own item (>= 300 recipes)
+Canned goods & broths;canned tomato;False;diced tomato;2131;3786;manual group
+Canned goods & broths;canned tomato;False;crushed tomato;1987;856;manual group
+Canned goods & broths;canned tomato;False;stewed tomato;6819;835;manual group
+Canned goods & broths;canned tomato;False;whole tomato;7863;401;manual group
+Canned goods & broths;canned tomato;False;canned tomato;1027;305;manual group
+Canned goods & broths;canned tomato;False;rotel tomato;6189;200;manual group
+Canned goods & broths;chicken broth;False;chicken broth;1257;8523;manual group
+Canned goods & broths;chicken broth;False;chicken stock;1297;3216;manual group
+Canned goods & broths;chicken broth;False;chicken bouillon cube;1248;617;manual group
+Canned goods & broths;chicken broth;False;chicken bouillon granule;1249;255;manual group
+Canned goods & broths;chicken broth;False;chicken bouillon;1246;222;manual group
+Canned goods & broths;coconut milk;False;coconut milk;1607;1189;manual group
+Canned goods & broths;coconut milk;False;light coconut milk;4329;198;manual group
+Canned goods & broths;coconut milk;False;unsweetened coconut milk;7409;171;manual group
+Canned goods & broths;cream of celery soup;False;cream of celery soup;1914;415;own item (>= 300 recipes)
+Canned goods & broths;cream of chicken soup;False;cream of chicken soup;1917;1480;manual group
+Canned goods & broths;cream of chicken soup;False;condensed cream of chicken soup;1672;310;manual group
+Canned goods & broths;cream of mushroom soup;False;cream of mushroom soup;1920;2024;manual group
+Canned goods & broths;cream of mushroom soup;False;condensed cream of mushroom soup;1674;362;manual group
+Canned goods & broths;pumpkin puree;False;pumpkin puree;5760;465;own item (>= 300 recipes)
+Canned goods & broths;tomato paste;False;tomato paste;7229;3083;own item (>= 300 recipes)
+Canned goods & broths;tomato sauce;False;tomato sauce;7233;3631;manual group
+Canned goods & broths;tomato sauce;False;spaghetti sauce;6711;865;manual group
+Canned goods & broths;tomato sauce;False;tomato puree;7230;526;manual group
+Canned goods & broths;tomato sauce;False;pasta sauce;5205;411;manual group
+Canned goods & broths;tomato sauce;False;marinara sauce;4580;349;manual group
+Canned goods & broths;tomato soup;False;tomato soup;7235;492;own item (>= 300 recipes)
+Canned goods & broths;vegetable broth;False;vegetable broth;7550;1209;manual group
+Canned goods & broths;vegetable broth;False;vegetable stock;7562;973;manual group
+Drinks & alcohol;apple cider;False;apple cider;154;485;own item (>= 300 recipes)
+Drinks & alcohol;apple juice;False;apple juice;159;787;own item (>= 300 recipes)
+Drinks & alcohol;beer;False;beer;510;998;own item (>= 300 recipes)
+Drinks & alcohol;bourbon;False;bourbon;695;352;own item (>= 300 recipes)
+Drinks & alcohol;brandy;False;brandy;710;670;own item (>= 300 recipes)
+Drinks & alcohol;coffee;False;coffee;1625;324;own item (>= 300 recipes)
+Drinks & alcohol;cranberry juice;False;cranberry juice;1888;364;own item (>= 300 recipes)
+Drinks & alcohol;instant coffee;False;instant coffee;3869;327;own item (>= 300 recipes)
+Drinks & alcohol;kahlua;False;kahlua;4018;333;own item (>= 300 recipes)
+Drinks & alcohol;pineapple juice;False;pineapple juice;5422;991;own item (>= 300 recipes)
+Drinks & alcohol;red wine;False;red wine;6007;1117;manual group
+Drinks & alcohol;red wine;False;dry red wine;2445;700;manual group
+Drinks & alcohol;rum;False;rum;6212;1532;own item (>= 300 recipes)
+Drinks & alcohol;sherry;False;dry sherry;2451;911;manual group
+Drinks & alcohol;sherry;False;sherry wine;6443;687;manual group
+Drinks & alcohol;tequila;False;tequila;7132;484;own item (>= 300 recipes)
+Drinks & alcohol;tomato juice;False;tomato juice;7227;590;own item (>= 300 recipes)
+Drinks & alcohol;vodka;False;vodka;7627;764;own item (>= 300 recipes)
+Drinks & alcohol;white wine;False;dry white wine;2461;2278;manual group
+Drinks & alcohol;white wine;False;white wine;7801;2202;manual group
+Eggs & dairy;american cheese;False;american cheese;112;614;own item (>= 300 recipes)
+Eggs & dairy;asiago cheese;False;asiago cheese;216;339;own item (>= 300 recipes)
+Eggs & dairy;blue cheese;False;blue cheese;638;962;manual group
+Eggs & dairy;blue cheese;False;gorgonzola;3321;287;manual group
+Eggs & dairy;butter;False;butter;840;48907;manual group
+Eggs & dairy;butter;False;salted butter;6283;230;manual group
+Eggs & dairy;buttermilk;False;buttermilk;869;3122;own item (>= 300 recipes)
+Eggs & dairy;cheddar;False;cheddar;1168;12063;manual group
+Eggs & dairy;cheese;False;cheese;1170;2306;own item (>= 300 recipes)
+Eggs & dairy;cottage cheese;False;cottage cheese;1838;1138;manual group
+Eggs & dairy;cottage cheese;False;small curd cottage cheese;6537;157;manual group
+Eggs & dairy;cream;False;heavy cream;3668;7948;manual group
+Eggs & dairy;cream;False;light cream;4333;547;manual group
+Eggs & dairy;cream;False;double cream;2181;197;manual group
+Eggs & dairy;cream;False;single cream;6504;60;manual group
+Eggs & dairy;cream cheese;False;cream cheese;1910;8792;manual group
+Eggs & dairy;cream cheese;False;neufchatel cheese;4914;150;manual group
+Eggs & dairy;egg;False;egg;2499;38277;manual group
+Eggs & dairy;egg;False;egg white;2509;3499;manual group
+Eggs & dairy;egg;False;egg yolk;2512;2318;manual group
+Eggs & dairy;egg;False;hard-boiled egg;3625;1084;manual group
+Eggs & dairy;egg;False;large egg;4145;143;manual group
+Eggs & dairy;egg substitute;False;egg substitute;2506;599;manual group
+Eggs & dairy;evaporated milk;False;evaporated milk;2559;1986;own item (>= 300 recipes)
+Eggs & dairy;feta;False;feta cheese;2591;2153;manual group
+Eggs & dairy;goat cheese;False;goat cheese;3294;614;own item (>= 300 recipes)
+Eggs & dairy;half-and-half;False;half-and-half;3589;1888;manual group
+Eggs & dairy;half-and-half;False;half-and-half cream;3590;661;manual group
+Eggs & dairy;mexican blend cheese;False;mexican blend cheese;4684;301;own item (>= 300 recipes)
+Eggs & dairy;milk;False;milk;4717;23110;manual group
+Eggs & dairy;milk;False;skim milk;6516;1675;manual group
+Eggs & dairy;monterey jack cheese;False;monterey jack cheese;4814;2016;manual group
+Eggs & dairy;monterey jack cheese;False;monterey jack pepper cheese;4816;417;manual group
+Eggs & dairy;mozzarella;False;mozzarella;4836;4860;manual group
+Eggs & dairy;parmesan;False;parmesan cheese;5180;12344;manual group
+Eggs & dairy;parmesan;False;parmigiano-reggiano cheese;5184;390;manual group
+Eggs & dairy;parmesan;False;grated parmesan cheese;3377;8;manual group
+Eggs & dairy;powdered milk;False;powdered milk;5687;358;own item (>= 300 recipes)
+Eggs & dairy;provolone cheese;False;provolone cheese;5731;598;own item (>= 300 recipes)
+Eggs & dairy;ricotta;False;ricotta cheese;6085;1145;manual group
+Eggs & dairy;ricotta;False;part-skim ricotta cheese;5191;203;manual group
+Eggs & dairy;romano cheese;False;romano cheese;6165;481;own item (>= 300 recipes)
+Eggs & dairy;sour cream;False;sour cream;6654;10321;manual group
+Eggs & dairy;sour cream;False;light sour cream;4359;447;manual group
+Eggs & dairy;soy milk;False;soymilk;6706;495;manual group
+Eggs & dairy;sweetened condensed milk;False;sweetened condensed milk;7022;1486;own item (>= 300 recipes)
+Eggs & dairy;swiss cheese;False;swiss cheese;7033;1828;manual group
+Eggs & dairy;swiss cheese;False;gruyere cheese;3560;367;manual group
+Eggs & dairy;vanilla ice cream;False;vanilla ice cream;7474;828;own item (>= 300 recipes)
+Eggs & dairy;velveeta cheese;False;velveeta cheese;7594;699;own item (>= 300 recipes)
+Eggs & dairy;whipped topping;False;cool whip;1789;1139;manual group
+Eggs & dairy;whipped topping;False;whipped cream;7702;1069;manual group
+Eggs & dairy;whipped topping;False;whipped topping;7704;573;manual group
+Eggs & dairy;whipped topping;False;frozen whipped topping;3108;319;manual group
+Eggs & dairy;yogurt;False;yogurt;7998;3219;manual group
+Eggs & dairy;yogurt;False;vanilla yogurt;7501;479;manual group
+Eggs & dairy;yogurt;False;greek yogurt;3392;368;manual group
+Fruits;apple;False;apple;150;3010;manual group
+Fruits;apple;False;granny smith apple;3347;815;manual group
+Fruits;apple;False;tart apple;7103;407;manual group
+Fruits;apple;False;red apple;5909;165;manual group
+Fruits;apple;False;green apple;3394;142;manual group
+Fruits;apple;False;golden delicious apple;3307;140;manual group
+Fruits;applesauce;False;applesauce;170;970;manual group
+Fruits;applesauce;False;unsweetened applesauce;7396;601;manual group
+Fruits;avocado;False;avocado;255;2216;own item (>= 300 recipes)
+Fruits;banana;False;banana;342;3702;own item (>= 300 recipes)
+Fruits;blueberry;False;blueberry;648;1547;own item (>= 300 recipes)
+Fruits;cherry pie filling;False;cherry pie filling;1218;376;own item (>= 300 recipes)
+Fruits;cranberry;False;cranberry;1881;905;manual group
+Fruits;cranberry;False;frozen cranberry;2997;33;manual group
+Fruits;date;False;date;2085;630;own item (>= 300 recipes)
+Fruits;dried apricot;False;dried apricot;2206;722;own item (>= 300 recipes)
+Fruits;dried cranberry;False;dried cranberry;2251;1047;own item (>= 300 recipes)
+Fruits;fruit;False;fruit;3117;348;own item (>= 300 recipes)
+Fruits;lemon;False;lemon juice;4253;15184;manual group
+Fruits;lemon;False;lemon;4231;2983;manual group
+Fruits;lemon;False;lemon, juice of;4287;1571;manual group
+Fruits;lemon;False;lemon zest;4284;1513;manual group
+Fruits;lemon;False;lemon rind;4267;849;manual group
+Fruits;lemon;False;lemon, zest of;4289;694;manual group
+Fruits;lemon;False;lemon peel;4260;613;manual group
+Fruits;lemon;False;lemon wedge;4282;536;manual group
+Fruits;lemon;False;lemon, rind of;4288;336;manual group
+Fruits;lemon;False;lemons, juice of;4302;307;manual group
+Fruits;lemon;False;lemon slice;4270;119;manual group
+Fruits;lime;False;lime juice;4384;4602;manual group
+Fruits;lime;False;lime;4379;1303;manual group
+Fruits;lime;False;lime, juice of;4403;657;manual group
+Fruits;lime;False;lime zest;4401;533;manual group
+Fruits;lime;False;lime wedge;4399;439;manual group
+Fruits;lime;False;lime rind;4390;136;manual group
+Fruits;lime;False;lime peel;4388;117;manual group
+Fruits;lime;False;lime, zest of;4405;90;manual group
+Fruits;mandarin orange;False;mandarin orange;4533;554;manual group
+Fruits;mandarin orange;False;mandarin orange segment;4538;104;manual group
+Fruits;mango;False;mango;4544;881;own item (>= 300 recipes)
+Fruits;maraschino cherry;False;maraschino cherry;4570;673;own item (>= 300 recipes)
+Fruits;orange;False;orange;5038;1289;manual group
+Fruits;orange;False;orange zest;5090;1219;manual group
+Fruits;orange;False;orange rind;5068;711;manual group
+Fruits;orange;False;orange peel;5064;355;manual group
+Fruits;orange;False;orange, zest of;5095;233;manual group
+Fruits;orange;False;navel orange;4905;144;manual group
+Fruits;orange;False;orange, juice of;5093;133;manual group
+Fruits;orange;False;orange, rind of;5094;59;manual group
+Fruits;orange juice;False;orange juice;5058;4039;own item (>= 300 recipes)
+Fruits;peach;False;peach;5229;1056;own item (>= 300 recipes)
+Fruits;pear;False;pear;5280;637;own item (>= 300 recipes)
+Fruits;pineapple;False;crushed pineapple;1982;1251;manual group
+Fruits;pineapple;False;pineapple;5408;803;manual group
+Fruits;pineapple;False;pineapple chunk;5410;610;manual group
+Fruits;pineapple;False;pineapple tidbit;5434;231;manual group
+Fruits;raisin;False;raisin;5825;3502;manual group
+Fruits;raisin;False;golden raisin;3311;633;manual group
+Fruits;raspberry;False;raspberry;5840;779;own item (>= 300 recipes)
+Fruits;rhubarb;False;rhubarb;6052;418;own item (>= 300 recipes)
+Fruits;strawberry;False;strawberry;6846;2431;own item (>= 300 recipes)
+Grains, pasta & bread;bread;False;bread;715;1528;manual group
+Grains, pasta & bread;bread;False;french bread;2718;860;manual group
+Grains, pasta & bread;bread;False;white bread;7714;832;manual group
+Grains, pasta & bread;bread;False;whole wheat bread;7872;427;manual group
+Grains, pasta & bread;bread;False;italian bread;3923;342;manual group
+Grains, pasta & bread;bread;False;sourdough bread;6669;258;manual group
+Grains, pasta & bread;bread;False;baguette;308;257;manual group
+Grains, pasta & bread;breadcrumbs;False;breadcrumb;728;3085;manual group
+Grains, pasta & bread;breadcrumbs;False;dry breadcrumb;2404;832;manual group
+Grains, pasta & bread;breadcrumbs;False;panko breadcrumb;5158;416;manual group
+Grains, pasta & bread;breadcrumbs;False;italian seasoned breadcrumb;3939;400;manual group
+Grains, pasta & bread;breadcrumbs;False;seasoned bread crumb;6363;307;manual group
+Grains, pasta & bread;breadcrumbs;False;bread crumb;717;13;manual group
+Grains, pasta & bread;corn flake;False;corn flake;1810;510;own item (>= 300 recipes)
+Grains, pasta & bread;cornbread;False;cornbread;1825;327;own item (>= 300 recipes)
+Grains, pasta & bread;cornmeal;False;cornmeal;1831;1128;manual group
+Grains, pasta & bread;cornmeal;False;yellow cornmeal;7970;593;manual group
+Grains, pasta & bread;couscous;False;couscous;1854;557;own item (>= 300 recipes)
+Grains, pasta & bread;cracker;False;cracker;1873;319;own item (>= 300 recipes)
+Grains, pasta & bread;graham crackers;False;graham cracker crumb;3324;646;manual group
+Grains, pasta & bread;graham crackers;False;graham cracker;3323;304;manual group
+Grains, pasta & bread;hamburger bun;False;hamburger bun;3610;735;own item (>= 300 recipes)
+Grains, pasta & bread;oats;False;rolled oat;6156;1413;manual group
+Grains, pasta & bread;oats;False;oat;4969;1377;manual group
+Grains, pasta & bread;oats;False;oatmeal;4975;869;manual group
+Grains, pasta & bread;oats;False;old fashioned oat;4998;464;manual group
+Grains, pasta & bread;oats;False;quick oat;5791;423;manual group
+Grains, pasta & bread;pasta;False;pasta;5219;912;manual group
+Grains, pasta & bread;pasta;False;spaghetti;6715;895;manual group
+Grains, pasta & bread;pasta;False;elbow macaroni;2518;859;manual group
+Grains, pasta & bread;pasta;False;egg noodle;2503;584;manual group
+Grains, pasta & bread;pasta;False;penne pasta;5314;563;manual group
+Grains, pasta & bread;pasta;False;linguine;4416;546;manual group
+Grains, pasta & bread;pasta;False;orzo pasta;5122;461;manual group
+Grains, pasta & bread;pasta;False;macaroni;4495;417;manual group
+Grains, pasta & bread;pasta;False;angel hair pasta;132;384;manual group
+Grains, pasta & bread;pasta;False;lasagna noodle;4155;376;manual group
+Grains, pasta & bread;pasta;False;noodle;4947;340;manual group
+Grains, pasta & bread;pasta;False;bow tie pasta;701;295;manual group
+Grains, pasta & bread;pasta;False;fettuccine;2592;285;manual group
+Grains, pasta & bread;pasta;False;penne;5313;274;manual group
+Grains, pasta & bread;pasta;False;rotini pasta;6193;254;manual group
+Grains, pasta & bread;pasta;False;fettuccine pasta;2593;222;manual group
+Grains, pasta & bread;pasta;False;rigatoni pasta;6089;187;manual group
+Grains, pasta & bread;pasta;False;small shell pasta;6548;154;manual group
+Grains, pasta & bread;pie crust;False;pie crust;5375;584;manual group
+Grains, pasta & bread;pie crust;False;pie shell;5381;365;manual group
+Grains, pasta & bread;pie crust;False;graham cracker crust;3326;319;manual group
+Grains, pasta & bread;pie crust;False;pizza crust;5481;304;manual group
+Grains, pasta & bread;pie crust;False;unbaked pie shell;7352;304;manual group
+Grains, pasta & bread;pie crust;False;graham cracker pie crust;3327;204;manual group
+Grains, pasta & bread;pie crust;False;refrigerated pie crust;6036;152;manual group
+Grains, pasta & bread;pie crust;False;deep dish pie shell;2099;118;manual group
+Grains, pasta & bread;pie crust;False;baked pie shell;315;3;manual group
+Grains, pasta & bread;pita bread;False;pita bread;5469;376;own item (>= 300 recipes)
+Grains, pasta & bread;quinoa;False;quinoa;5797;348;own item (>= 300 recipes)
+Grains, pasta & bread;refrigerated crescent dinner roll;False;refrigerated crescent dinner roll;6029;458;own item (>= 300 recipes)
+Grains, pasta & bread;rice;False;rice;6061;1689;manual group
+Grains, pasta & bread;rice;False;cooked rice;1746;1371;manual group
+Grains, pasta & bread;rice;False;long grain rice;4470;541;manual group
+Grains, pasta & bread;rice;False;brown rice;790;539;manual group
+Grains, pasta & bread;rice;False;basmati rice;389;380;manual group
+Grains, pasta & bread;rice;False;cooked brown rice;1706;345;manual group
+Grains, pasta & bread;rice;False;arborio rice;195;296;manual group
+Grains, pasta & bread;rice;False;long-grain rice;4473;289;manual group
+Grains, pasta & bread;rice;False;instant rice;3904;234;manual group
+Grains, pasta & bread;rice;False;jasmine rice;3974;149;manual group
+Grains, pasta & bread;rice krispy;False;rice krispy;6072;308;own item (>= 300 recipes)
+Grains, pasta & bread;ritz cracker;False;ritz cracker;6097;326;own item (>= 300 recipes)
+Grains, pasta & bread;tortilla;False;tortilla;7258;4111;manual group
+Grains, pasta & bread;wheat germ;False;wheat germ;7688;439;own item (>= 300 recipes)
+Herbs & spices;allspice;False;allspice;68;1159;manual group
+Herbs & spices;allspice;False;ground allspice;3478;891;manual group
+Herbs & spices;basil;False;basil;382;5005;manual group
+Herbs & spices;basil;False;dried basil;2212;2608;manual group
+Herbs & spices;basil;False;basil leaf;384;1820;manual group
+Herbs & spices;bay leaf;False;bay leaf;393;4028;own item (>= 300 recipes)
+Herbs & spices;cajun seasoning;False;cajun seasoning;905;566;own item (>= 300 recipes)
+Herbs & spices;caraway seed;False;caraway seed;1078;635;own item (>= 300 recipes)
+Herbs & spices;cardamom;False;ground cardamom;3489;615;manual group
+Herbs & spices;cardamom;False;cardamom;1082;308;manual group
+Herbs & spices;cardamom;False;cardamom pod;1083;223;manual group
+Herbs & spices;cayenne pepper;False;cayenne pepper;1119;4685;manual group
+Herbs & spices;cayenne pepper;False;cayenne;1118;1375;manual group
+Herbs & spices;cayenne pepper;False;ground red pepper;3536;781;manual group
+Herbs & spices;cayenne pepper;False;ground cayenne pepper;3490;304;manual group
+Herbs & spices;celery salt;False;celery salt;1132;638;own item (>= 300 recipes)
+Herbs & spices;celery seed;False;celery seed;1133;945;own item (>= 300 recipes)
+Herbs & spices;chili powder;False;chili powder;1329;5404;own item (>= 300 recipes)
+Herbs & spices;chives;False;chive;1372;2505;manual group
+Herbs & spices;cilantro;False;cilantro;1505;5917;manual group
+Herbs & spices;cilantro;False;cilantro leaf;1506;751;manual group
+Herbs & spices;cilantro;False;coriander leaf;1796;422;manual group
+Herbs & spices;cinnamon;False;cinnamon;1511;9855;manual group
+Herbs & spices;cinnamon;False;ground cinnamon;3497;5073;manual group
+Herbs & spices;cinnamon;False;cinnamon stick;1527;1359;manual group
+Herbs & spices;cloves;False;ground clove;3498;1642;manual group
+Herbs & spices;cloves;False;clove;1563;1435;manual group
+Herbs & spices;cloves;False;whole clove;7821;503;manual group
+Herbs & spices;coriander;False;ground coriander;3500;1438;manual group
+Herbs & spices;coriander;False;coriander;1795;1320;manual group
+Herbs & spices;coriander;False;coriander seed;1799;330;manual group
+Herbs & spices;cumin;False;ground cumin;3502;4616;manual group
+Herbs & spices;cumin;False;cumin;2007;3134;manual group
+Herbs & spices;cumin;False;cumin seed;2010;754;manual group
+Herbs & spices;curry powder;False;curry powder;2022;2380;own item (>= 300 recipes)
+Herbs & spices;dill;False;dill;2151;1694;manual group
+Herbs & spices;dill;False;dill weed;2159;689;manual group
+Herbs & spices;dill;False;dried dill;2256;350;manual group
+Herbs & spices;dill;False;dried dill weed;2258;279;manual group
+Herbs & spices;dried onion;False;dried onion flake;2318;528;manual group
+Herbs & spices;dried onion;False;onion flake;5018;155;manual group
+Herbs & spices;fennel seed;False;fennel seed;2587;502;own item (>= 300 recipes)
+Herbs & spices;garam masala;False;garam masala;3177;562;own item (>= 300 recipes)
+Herbs & spices;garlic powder;False;garlic powder;3217;8675;own item (>= 300 recipes)
+Herbs & spices;garlic salt;False;garlic salt;3219;2189;own item (>= 300 recipes)
+Herbs & spices;ginger;False;ginger;3248;6021;manual group
+Herbs & spices;ginger;False;ground ginger;3512;2801;manual group
+Herbs & spices;ginger;False;gingerroot;3269;1588;manual group
+Herbs & spices;herb;False;herb;3675;394;own item (>= 300 recipes)
+Herbs & spices;italian seasoning;False;italian seasoning;3940;1617;own item (>= 300 recipes)
+Herbs & spices;lemon pepper;False;lemon pepper;4262;504;own item (>= 300 recipes)
+Herbs & spices;lemongrass;False;lemongras;4298;398;manual group
+Herbs & spices;marjoram;False;marjoram;4585;524;manual group
+Herbs & spices;marjoram;False;dried marjoram;2304;410;manual group
+Herbs & spices;mint;False;of fresh mint;4985;1000;manual group
+Herbs & spices;mint;False;mint leaf;4755;976;manual group
+Herbs & spices;mint;False;mint;4746;411;manual group
+Herbs & spices;mustard powder;False;dry mustard;2430;2326;manual group
+Herbs & spices;mustard powder;False;mustard powder;4883;471;manual group
+Herbs & spices;mustard powder;False;ground mustard;3525;351;manual group
+Herbs & spices;mustard seed;False;mustard seed;4884;518;own item (>= 300 recipes)
+Herbs & spices;nutmeg;False;nutmeg;4964;4793;manual group
+Herbs & spices;nutmeg;False;ground nutmeg;3527;2159;manual group
+Herbs & spices;old bay seasoning;False;old bay seasoning;4996;461;own item (>= 300 recipes)
+Herbs & spices;onion powder;False;onion powder;5024;2572;own item (>= 300 recipes)
+Herbs & spices;onion salt;False;onion salt;5028;360;own item (>= 300 recipes)
+Herbs & spices;onion soup mix;False;onion soup mix;5033;680;manual group
+Herbs & spices;onion soup mix;False;dry onion soup mix;2434;388;manual group
+Herbs & spices;oregano;False;oregano;5106;3962;manual group
+Herbs & spices;oregano;False;dried oregano;2320;3727;manual group
+Herbs & spices;oregano;False;oregano leaf;5108;236;manual group
+Herbs & spices;paprika;False;paprika;5168;6174;manual group
+Herbs & spices;paprika;False;sweet paprika;6983;344;manual group
+Herbs & spices;paprika;False;smoked paprika;6581;327;manual group
+Herbs & spices;paprika;False;hungarian paprika;3822;102;manual group
+Herbs & spices;parsley;False;parsley;5185;11579;manual group
+Herbs & spices;parsley;False;dried parsley;2324;997;manual group
+Herbs & spices;parsley;False;flat leaf parsley;2672;897;manual group
+Herbs & spices;parsley;False;italian parsley;3930;592;manual group
+Herbs & spices;parsley;False;parsley flake;5186;503;manual group
+Herbs & spices;parsley;False;fresh parsley leaf;2857;425;manual group
+Herbs & spices;parsley;False;dried parsley flake;2325;400;manual group
+Herbs & spices;parsley;False;fresh flat-leaf parsley;2803;343;manual group
+Herbs & spices;poppy seed;False;poppy seed;5556;630;own item (>= 300 recipes)
+Herbs & spices;poultry seasoning;False;poultry seasoning;5667;567;own item (>= 300 recipes)
+Herbs & spices;pumpkin pie spice;False;pumpkin pie spice;5759;555;own item (>= 300 recipes)
+Herbs & spices;red pepper flakes;False;crushed red pepper flake;1986;2269;manual group
+Herbs & spices;red pepper flakes;False;red pepper flake;5975;1950;manual group
+Herbs & spices;red pepper flakes;False;dried red pepper flake;2347;160;manual group
+Herbs & spices;rosemary;False;rosemary;6183;2436;manual group
+Herbs & spices;rosemary;False;dried rosemary;2350;910;manual group
+Herbs & spices;sage;False;sage;6243;984;manual group
+Herbs & spices;sage;False;dried sage;2353;369;manual group
+Herbs & spices;sage;False;ground sage;3540;176;manual group
+Herbs & spices;sage;False;rubbed sage;6206;158;manual group
+Herbs & spices;seasoning;False;seasoning;6372;478;own item (>= 300 recipes)
+Herbs & spices;seasoning mix;False;seasoning mix;6373;953;own item (>= 300 recipes)
+Herbs & spices;seasoning salt;False;seasoning salt;6374;1868;own item (>= 300 recipes)
+Herbs & spices;taco seasoning;False;taco seasoning;7060;723;own item (>= 300 recipes)
+Herbs & spices;tarragon;False;tarragon;7099;715;manual group
+Herbs & spices;tarragon;False;dried tarragon;2374;377;manual group
+Herbs & spices;thyme;False;thyme;7168;3698;manual group
+Herbs & spices;thyme;False;dried thyme;2378;2646;manual group
+Herbs & spices;thyme;False;thyme leaf;7170;368;manual group
+Herbs & spices;thyme;False;dried thyme leaf;2379;288;manual group
+Herbs & spices;turmeric;False;turmeric;7337;1345;manual group
+Herbs & spices;turmeric;False;ground turmeric;3550;553;manual group
+Legumes & tofu;bean sprout;False;bean sprout;405;519;own item (>= 300 recipes)
+Legumes & tofu;beans;False;black bean;553;1938;manual group
+Legumes & tofu;beans;False;kidney bean;4062;1691;manual group
+Legumes & tofu;beans;False;refried bean;6016;591;manual group
+Legumes & tofu;beans;False;pinto bean;5456;563;manual group
+Legumes & tofu;beans;False;cannellini bean;1039;486;manual group
+Legumes & tofu;beans;False;great northern bean;3384;287;manual group
+Legumes & tofu;beans;False;white bean;7713;245;manual group
+Legumes & tofu;beans;False;baked bean;311;217;manual group
+Legumes & tofu;beans;False;navy bean;4907;159;manual group
+Legumes & tofu;chickpea;False;chickpea;1313;1011;manual group
+Legumes & tofu;chickpea;False;garbanzo bean;3179;480;manual group
+Legumes & tofu;green bean;False;green bean;3398;1864;own item (>= 300 recipes)
+Legumes & tofu;lentil;False;lentil;4305;364;own item (>= 300 recipes)
+Legumes & tofu;snow pea;False;snow pea;6605;489;own item (>= 300 recipes)
+Legumes & tofu;tofu;False;firm tofu;2643;577;manual group
+Legumes & tofu;tofu;False;tofu;7201;173;manual group
+Legumes & tofu;tofu;False;silken tofu;6500;104;manual group
+Meat & fish;bacon;False;bacon;298;5475;manual group
+Meat & fish;bacon;False;cooked bacon;1699;449;manual group
+Meat & fish;bacon;False;bacon bit;299;311;manual group
+Meat & fish;bacon;False;turkey bacon;7296;131;manual group
+Meat & fish;beef steak/roast;False;flank steak;2668;391;manual group
+Meat & fish;beef steak/roast;False;round steak;6201;323;manual group
+Meat & fish;beef steak/roast;False;sirloin steak;6510;280;manual group
+Meat & fish;beef steak/roast;False;chuck roast;1485;271;manual group
+Meat & fish;beef steak/roast;False;beef stew meat;483;241;manual group
+Meat & fish;beef steak/roast;False;steak;6802;233;manual group
+Meat & fish;beef steak/roast;False;stewing beef;6820;188;manual group
+Meat & fish;beef steak/roast;False;beef tenderloin;495;108;manual group
+Meat & fish;beef steak/roast;False;beef chuck roast;441;104;manual group
+Meat & fish;beef steak/roast;False;skirt steak;6522;81;manual group
+Meat & fish;chicken;False;chicken breast;1252;7906;manual group
+Meat & fish;chicken;False;chicken breast half;1254;2131;manual group
+Meat & fish;chicken;False;chicken;1240;1849;manual group
+Meat & fish;chicken;False;cooked chicken;1707;1651;manual group
+Meat & fish;chicken;False;chicken thigh;1306;1183;manual group
+Meat & fish;chicken;False;cooked chicken breast;1708;553;manual group
+Meat & fish;chicken;False;chicken wing;1310;505;manual group
+Meat & fish;chicken;False;chicken piece;1289;470;manual group
+Meat & fish;chicken;False;whole chicken;7819;347;manual group
+Meat & fish;chicken;False;chicken drumstick;1267;232;manual group
+Meat & fish;chicken;False;chicken leg;1280;208;manual group
+Meat & fish;chicken;False;chicken breast fillet;1253;172;manual group
+Meat & fish;chicken;False;chicken tender;1304;167;manual group
+Meat & fish;crab;False;crabmeat;1866;618;manual group
+Meat & fish;crab;False;imitation crabmeat;3840;184;manual group
+Meat & fish;ground beef;False;ground beef;3484;5170;manual group
+Meat & fish;ground beef;False;lean ground beef;4189;2527;manual group
+Meat & fish;ground beef;False;hamburger;3609;468;manual group
+Meat & fish;ground beef;False;ground chuck;3495;400;manual group
+Meat & fish;ground pork;False;ground pork;3533;580;own item (>= 300 recipes)
+Meat & fish;ground turkey;False;ground turkey;3548;979;own item (>= 300 recipes)
+Meat & fish;ham;False;ham;3597;1405;manual group
+Meat & fish;ham;False;cooked ham;1723;725;manual group
+Meat & fish;ham;False;deli ham;2108;274;manual group
+Meat & fish;ham;False;ham steak;3607;86;manual group
+Meat & fish;liver;False;liver;4449;1232;own item (>= 300 recipes)
+Meat & fish;pepperoni;False;pepperoni;5340;559;own item (>= 300 recipes)
+Meat & fish;pork;False;pork chop;5574;1226;manual group
+Meat & fish;pork;False;pork tenderloin;5627;833;manual group
+Meat & fish;pork;False;pork;5561;319;own item (>= 300 recipes)
+Meat & fish;pork;False;pork loin chop;5591;317;manual group
+Meat & fish;pork;False;pork loin;5590;275;manual group
+Meat & fish;pork;False;pork shoulder;5610;200;manual group
+Meat & fish;pork;False;pork rib;5599;188;manual group
+Meat & fish;pork;False;pork roast;5605;174;manual group
+Meat & fish;pork;False;pork butt;5571;93;manual group
+Meat & fish;prosciutto;False;prosciutto;5724;465;own item (>= 300 recipes)
+Meat & fish;salmon;False;salmon fillet;6261;1054;manual group
+Meat & fish;salmon;False;salmon;6260;333;manual group
+Meat & fish;salmon;False;smoked salmon;6587;325;manual group
+Meat & fish;sausage;False;sausage;6324;3992;manual group
+Meat & fish;sausage;False;kielbasa;4063;311;manual group
+Meat & fish;shrimp;False;shrimp;6487;1563;manual group
+Meat & fish;shrimp;False;large shrimp;4152;581;manual group
+Meat & fish;shrimp;False;medium shrimp;4661;513;manual group
+Meat & fish;shrimp;False;raw shrimp;5890;312;manual group
+Meat & fish;shrimp;False;prawn;5704;266;manual group
+Meat & fish;shrimp;False;cooked shrimp;1754;208;manual group
+Meat & fish;tuna;False;tuna;7284;545;manual group
+Meat & fish;tuna;False;tuna in water;7289;249;manual group
+Meat & fish;tuna;False;canned tuna;1029;94;manual group
+Meat & fish;tuna;False;solid white tuna;6634;51;manual group
+Meat & fish;turkey;False;cooked turkey;1762;318;manual group
+Meat & fish;turkey;False;turkey breast;7298;220;manual group
+Meat & fish;white fish;False;tilapia fillet;7178;350;manual group
+Meat & fish;white fish;False;fish fillet;2651;326;manual group
+Meat & fish;white fish;False;white fish fillet;7753;228;manual group
+Meat & fish;white fish;False;halibut fillet;3592;117;manual group
+Meat & fish;white fish;False;cod;1621;91;manual group
+Nuts & seeds;almond;False;almond;70;1296;manual group
+Nuts & seeds;almond;False;sliced almond;6526;950;manual group
+Nuts & seeds;almond;False;blanched almond;629;205;manual group
+Nuts & seeds;cashew;False;cashew;1098;495;own item (>= 300 recipes)
+Nuts & seeds;coconut;False;coconut;1591;1210;manual group
+Nuts & seeds;coconut;False;flaked coconut;2665;691;manual group
+Nuts & seeds;coconut;False;shredded coconut;6477;419;manual group
+Nuts & seeds;coconut;False;sweetened flaked coconut;7024;317;manual group
+Nuts & seeds;coconut;False;desiccated coconut;2117;210;manual group
+Nuts & seeds;coconut;False;unsweetened coconut;7408;122;manual group
+Nuts & seeds;macadamia nut;False;macadamia nut;4493;345;own item (>= 300 recipes)
+Nuts & seeds;nut;False;nut;4958;2003;manual group
+Nuts & seeds;nut;False;mixed nut;4788;115;manual group
+Nuts & seeds;peanut;False;peanut;5259;816;own item (>= 300 recipes)
+Nuts & seeds;peanut butter;False;peanut butter;5261;1993;manual group
+Nuts & seeds;peanut butter;False;creamy peanut butter;1938;708;manual group
+Nuts & seeds;peanut butter;False;smooth peanut butter;6598;240;manual group
+Nuts & seeds;peanut butter;False;chunky peanut butter;1494;178;manual group
+Nuts & seeds;pecan;False;pecan;5298;4530;manual group
+Nuts & seeds;pecan;False;pecan half;5301;488;manual group
+Nuts & seeds;pecan;False;pecan piece;5304;158;manual group
+Nuts & seeds;pine nut;False;pine nut;5407;1287;own item (>= 300 recipes)
+Nuts & seeds;sesame seed;False;sesame seed;6416;1660;manual group
+Nuts & seeds;sesame seed;False;toasted sesame seed;7194;342;manual group
+Nuts & seeds;sunflower seed;False;sunflower seed;6937;573;own item (>= 300 recipes)
+Nuts & seeds;tahini;False;tahini;7063;385;own item (>= 300 recipes)
+Nuts & seeds;walnut;False;walnut;7642;4567;manual group
+Nuts & seeds;walnut;False;walnut piece;7649;171;manual group
+Oils & fats;margarine;False;margarine;4574;4361;manual group
+Oils & fats;margarine;False;light margarine;4342;88;manual group
+Oils & fats;olive oil;False;olive oil;5006;31588;own item (>= 300 recipes)
+Oils & fats;sesame oil;False;sesame oil;6413;2339;manual group
+Oils & fats;sesame oil;False;dark sesame oil;2076;341;manual group
+Oils & fats;sesame oil;False;toasted sesame oil;7193;301;manual group
+Oils & fats;shortening;False;shortening;6473;2175;manual group
+Oils & fats;shortening;False;vegetable shortening;7559;333;manual group
+Sauces & condiments;balsamic vinegar;False;balsamic vinegar;339;3026;own item (>= 300 recipes)
+Sauces & condiments;barbecue sauce;False;barbecue sauce;367;1221;own item (>= 300 recipes)
+Sauces & condiments;caper;False;caper;1049;1285;own item (>= 300 recipes)
+Sauces & condiments;chili sauce;False;chili sauce;1330;1332;own item (>= 300 recipes)
+Sauces & condiments;cider vinegar;False;cider vinegar;1504;2017;manual group
+Sauces & condiments;cider vinegar;False;apple cider vinegar;155;987;manual group
+Sauces & condiments;dijon mustard;False;dijon mustard;2148;4527;own item (>= 300 recipes)
+Sauces & condiments;dressing;False;dressing;2200;3352;own item (>= 300 recipes)
+Sauces & condiments;fish sauce;False;fish sauce;2654;974;own item (>= 300 recipes)
+Sauces & condiments;hoisin sauce;False;hoisin sauce;3710;671;own item (>= 300 recipes)
+Sauces & condiments;horseradish;False;horseradish;3758;976;own item (>= 300 recipes)
+Sauces & condiments;hot sauce;False;tabasco sauce;7049;1694;manual group
+Sauces & condiments;hot sauce;False;hot sauce;3810;1628;manual group
+Sauces & condiments;hot sauce;False;hot pepper sauce;3800;1038;manual group
+Sauces & condiments;hot sauce;False;sriracha sauce;6794;84;manual group
+Sauces & condiments;ketchup;False;ketchup;4053;3144;manual group
+Sauces & condiments;ketchup;False;catsup;1111;520;manual group
+Sauces & condiments;liquid smoke;False;liquid smoke;4436;518;own item (>= 300 recipes)
+Sauces & condiments;mayonnaise;False;mayonnaise;4623;8338;manual group
+Sauces & condiments;mayonnaise;False;miracle whip;4763;403;manual group
+Sauces & condiments;mustard;False;mustard;4880;2309;manual group
+Sauces & condiments;mustard;False;yellow mustard;7977;608;manual group
+Sauces & condiments;olive;False;black olive;588;1622;manual group
+Sauces & condiments;olive;False;kalamata olive;4023;510;manual group
+Sauces & condiments;olive;False;green olive;3437;486;manual group
+Sauces & condiments;olive;False;olive;5002;384;manual group
+Sauces & condiments;olive;False;kalamata olive;4022;311;manual group
+Sauces & condiments;olive;False;olive;5003;286;manual group
+Sauces & condiments;olive;False;pitted black olive;5475;193;manual group
+Sauces & condiments;oyster sauce;False;oyster sauce;5137;494;own item (>= 300 recipes)
+Sauces & condiments;pesto sauce;False;pesto sauce;5351;508;own item (>= 300 recipes)
+Sauces & condiments;pickle;False;pickle;5365;1437;own item (>= 300 recipes)
+Sauces & condiments;pizza sauce;False;pizza sauce;5485;465;own item (>= 300 recipes)
+Sauces & condiments;red wine vinegar;False;red wine vinegar;6009;2580;own item (>= 300 recipes)
+Sauces & condiments;rice vinegar;False;rice vinegar;6082;1173;manual group
+Sauces & condiments;rice vinegar;False;rice wine vinegar;6084;564;manual group
+Sauces & condiments;rice vinegar;False;seasoned rice vinegar;6368;114;manual group
+Sauces & condiments;salsa;False;salsa;6265;2236;own item (>= 300 recipes)
+Sauces & condiments;soy sauce;False;soy sauce;6696;9021;own item (>= 300 recipes)
+Sauces & condiments;teriyaki sauce;False;teriyaki sauce;7135;422;own item (>= 300 recipes)
+Sauces & condiments;vinegar;False;vinegar;7620;2630;manual group
+Sauces & condiments;vinegar;False;white vinegar;7799;1639;manual group
+Sauces & condiments;vinegar;False;distilled white vinegar;2170;147;manual group
+Sauces & condiments;white wine vinegar;False;white wine vinegar;7803;1127;own item (>= 300 recipes)
+Sauces & condiments;worcestershire sauce;False;worcestershire sauce;7946;6272;own item (>= 300 recipes)
+Staples;black pepper;True;pepper;5319;18508;manual group
+Staples;black pepper;True;black pepper;590;10199;manual group
+Staples;black pepper;True;fresh ground black pepper;2816;5194;manual group
+Staples;black pepper;True;ground black pepper;3486;2901;manual group
+Staples;black pepper;True;fresh ground pepper;2817;2490;manual group
+Staples;black pepper;True;white pepper;7774;2088;manual group
+Staples;black pepper;True;ground pepper;3532;852;manual group
+Staples;black pepper;True;cracked black pepper;1867;635;manual group
+Staples;black pepper;True;fresh coarse ground black pepper;2780;602;manual group
+Staples;black pepper;True;black peppercorn;591;494;manual group
+Staples;black pepper;True;peppercorn;5324;385;manual group
+Staples;salt;True;salt;6270;66183;manual group
+Staples;salt;True;salt and pepper;6276;12613;manual group
+Staples;salt;True;kosher salt;4096;3621;manual group
+Staples;salt;True;salt & ground black pepper;6272;2225;manual group
+Staples;salt;True;sea salt;6352;2201;manual group
+Staples;salt;True;salt & pepper;6273;1752;manual group
+Staples;salt;True;coarse salt;1573;769;manual group
+Staples;salt;True;salt and black pepper;6274;710;manual group
+Staples;salt;True;salt & fresh ground pepper;6271;326;manual group
+Staples;salt;True;table salt;7054;308;manual group
+Staples;vegetable oil;True;vegetable oil;7557;19388;manual group
+Staples;vegetable oil;True;canola oil;1043;3273;manual group
+Staples;vegetable oil;True;cooking spray;1786;3110;manual group
+Staples;vegetable oil;True;peanut oil;5276;1180;manual group
+Staples;vegetable oil;True;salad oil;6254;403;manual group
+Staples;vegetable oil;True;corn oil;1819;309;manual group
+Staples;water;True;water;7655;25826;manual group
+Staples;water;True;boiling water;673;2075;manual group
+Staples;water;True;cold water;1645;1495;manual group
+Staples;water;True;hot water;3815;1307;manual group
+Staples;water;True;warm water;7650;1113;manual group
+Staples;water;True;ice cube;3829;1077;manual group
+Staples;water;True;ice;3824;1001;manual group
+Staples;water;True;ice water;3830;191;manual group
+Sweeteners;apricot preserve;False;apricot preserve;184;310;own item (>= 300 recipes)
+Sweeteners;artificial sweetener;False;artificial sweetener;208;1935;manual group
+Sweeteners;artificial sweetener;False;stevia;6816;62;manual group
+Sweeteners;brown sugar;False;brown sugar;800;15093;manual group
+Sweeteners;brown sugar;False;light brown sugar;4320;2166;manual group
+Sweeteners;brown sugar;False;dark brown sugar;2045;1222;manual group
+Sweeteners;corn syrup;False;light corn syrup;4330;824;manual group
+Sweeteners;corn syrup;False;corn syrup;1824;512;manual group
+Sweeteners;corn syrup;False;dark corn syrup;2062;163;manual group
+Sweeteners;honey;False;honey;3723;7400;manual group
+Sweeteners;maple syrup;False;maple syrup;4568;1996;own item (>= 300 recipes)
+Sweeteners;molasses;False;molasses;4807;1323;own item (>= 300 recipes)
+Sweeteners;orange marmalade;False;orange marmalade;5062;484;own item (>= 300 recipes)
+Sweeteners;powdered sugar;False;powdered sugar;5695;3787;manual group
+Sweeteners;powdered sugar;False;confectioners' sugar;1689;2079;manual group
+Sweeteners;powdered sugar;False;icing sugar;3834;892;manual group
+Sweeteners;sugar;False;sugar;6906;39954;manual group
+Sweeteners;sugar;False;caster sugar;1107;855;manual group
+Sweeteners;sugar;False;superfine sugar;6940;227;manual group
+Vegetables;artichoke heart;False;artichoke heart;204;658;own item (>= 300 recipes)
+Vegetables;asparagus;False;asparagus;221;1179;manual group
+Vegetables;asparagus;False;asparagus spear;222;356;manual group
+Vegetables;beet;False;beet;512;365;own item (>= 300 recipes)
+Vegetables;bell pepper;False;green pepper;3440;4342;manual group
+Vegetables;bell pepper;False;red bell pepper;5915;4235;manual group
+Vegetables;bell pepper;False;green bell pepper;3399;3096;manual group
+Vegetables;bell pepper;False;red pepper;5974;2221;manual group
+Vegetables;bell pepper;False;bell pepper;519;1702;manual group
+Vegetables;bell pepper;False;sweet red pepper;6995;686;manual group
+Vegetables;bell pepper;False;yellow bell pepper;7962;633;manual group
+Vegetables;bell pepper;False;yellow pepper;7982;359;manual group
+Vegetables;bell pepper;False;red capsicum;5923;312;manual group
+Vegetables;bell pepper;False;orange bell pepper;5039;159;manual group
+Vegetables;bell pepper;False;capsicum;1060;27;manual group
+Vegetables;broccoli;False;broccoli;756;1503;manual group
+Vegetables;broccoli;False;broccoli floret;761;1173;manual group
+Vegetables;broccoli;False;frozen broccoli;2965;205;manual group
+Vegetables;brussels sprout;False;brussels sprout;811;387;own item (>= 300 recipes)
+Vegetables;cabbage;False;cabbage;893;1441;manual group
+Vegetables;cabbage;False;green cabbage;3402;479;manual group
+Vegetables;cabbage;False;red cabbage;5921;342;manual group
+Vegetables;cabbage;False;coleslaw mix;1648;229;manual group
+Vegetables;carrot;False;carrot;1093;10579;manual group
+Vegetables;carrot;False;baby carrot;269;769;manual group
+Vegetables;cauliflower;False;cauliflower;1112;844;own item (>= 300 recipes)
+Vegetables;celery;False;celery;1124;7544;manual group
+Vegetables;celery;False;celery rib;1130;1904;manual group
+Vegetables;chili pepper;False;chile;1316;1890;manual group
+Vegetables;chili pepper;False;jalapeno pepper;3957;1800;manual group
+Vegetables;chili pepper;False;jalapeno;3951;1480;manual group
+Vegetables;chili pepper;False;green chili;3418;1465;manual group
+Vegetables;chili pepper;False;diced green chili;2127;483;manual group
+Vegetables;chili pepper;False;chili pepper;1326;367;own item (>= 300 recipes)
+Vegetables;chili pepper;False;chili;1317;359;manual group
+Vegetables;chili pepper;False;green chili pepper;3414;337;manual group
+Vegetables;chili pepper;False;green chili;3412;269;manual group
+Vegetables;chili pepper;False;red chili;5935;267;manual group
+Vegetables;chili pepper;False;hot pepper;3793;179;manual group
+Vegetables;chili pepper;False;serrano pepper;6407;177;manual group
+Vegetables;chili pepper;False;chili;1336;168;manual group
+Vegetables;chili pepper;False;habanero pepper;3578;131;manual group
+Vegetables;chili pepper;False;chipotle pepper;1368;96;manual group
+Vegetables;chili pepper;False;diced green chili;2126;34;manual group
+Vegetables;corn;False;corn;1803;1745;manual group
+Vegetables;corn;False;frozen corn;2991;729;manual group
+Vegetables;corn;False;whole kernel corn;7850;614;manual group
+Vegetables;corn;False;corn kernel;1814;561;manual group
+Vegetables;corn;False;creamed corn;1933;342;manual group
+Vegetables;cucumber;False;cucumber;2001;2461;manual group
+Vegetables;cucumber;False;english cucumber;2534;302;manual group
+Vegetables;eggplant;False;eggplant;2516;1019;own item (>= 300 recipes)
+Vegetables;frozen mixed vegetable;False;frozen mixed vegetable;3037;382;own item (>= 300 recipes)
+Vegetables;garlic;False;garlic;3184;42491;manual group
+Vegetables;garlic;False;minced garlic clove;4740;722;manual group
+Vegetables;leek;False;leek;4227;1224;own item (>= 300 recipes)
+Vegetables;lettuce;False;lettuce;4308;4177;manual group
+Vegetables;lettuce;False;salad green;6250;203;manual group
+Vegetables;mashed potato;False;mashed potato;4610;514;own item (>= 300 recipes)
+Vegetables;mushroom;False;mushroom;4863;5540;manual group
+Vegetables;mushroom;False;sliced mushroom;6528;1612;manual group
+Vegetables;mushroom;False;button mushroom;892;652;manual group
+Vegetables;mushroom;False;portabella mushroom;5634;413;manual group
+Vegetables;mushroom;False;shiitake mushroom;6447;324;manual group
+Vegetables;mushroom;False;white mushroom;7768;230;manual group
+Vegetables;mushroom;False;baby portabella mushroom;282;94;manual group
+Vegetables;onion;False;onion;5010;40126;manual group
+Vegetables;onion;False;yellow onion;7979;2076;manual group
+Vegetables;onion;False;sweet onion;6980;1279;manual group
+Vegetables;onion;False;vidalia onion;7616;429;manual group
+Vegetables;onion;False;diced onion;2128;395;manual group
+Vegetables;onion;False;spanish onion;6720;220;manual group
+Vegetables;parsnip;False;parsnip;5190;419;own item (>= 300 recipes)
+Vegetables;pea;False;frozen pea;3046;1288;manual group
+Vegetables;pea;False;pea;5224;574;manual group
+Vegetables;pea;False;green pea;3439;198;manual group
+Vegetables;pimiento;False;pimiento;5402;364;own item (>= 300 recipes)
+Vegetables;potato;False;potato;5648;6444;manual group
+Vegetables;potato;False;red potato;5985;1159;manual group
+Vegetables;potato;False;russet potato;6220;744;manual group
+Vegetables;potato;False;baking potato;331;722;manual group
+Vegetables;potato;False;new potato;4918;426;manual group
+Vegetables;potato;False;yukon gold potato;8012;358;manual group
+Vegetables;potato;False;small red potato;6546;213;manual group
+Vegetables;potato;False;idaho potato;3836;108;manual group
+Vegetables;pumpkin;False;pumpkin;5753;734;own item (>= 300 recipes)
+Vegetables;radish;False;radish;5812;410;own item (>= 300 recipes)
+Vegetables;red onion;False;red onion;5966;5448;own item (>= 300 recipes)
+Vegetables;roasted red pepper;False;roasted red pepper;6129;800;own item (>= 300 recipes)
+Vegetables;sauerkraut;False;sauerkraut;6321;512;own item (>= 300 recipes)
+Vegetables;scallion;False;scallion;6335;13270;manual group
+Vegetables;shallot;False;shallot;6426;3115;own item (>= 300 recipes)
+Vegetables;spinach;False;spinach;6754;1928;manual group
+Vegetables;spinach;False;frozen chopped spinach;2984;929;manual group
+Vegetables;spinach;False;baby spinach;288;746;manual group
+Vegetables;spinach;False;frozen spinach;3087;612;manual group
+Vegetables;spinach;False;spinach leaf;6760;490;manual group
+Vegetables;spinach;False;baby spinach leaf;289;421;manual group
+Vegetables;squash;False;butternut squash;875;595;manual group
+Vegetables;squash;False;yellow squash;7987;507;manual group
+Vegetables;squash;False;summer squash;6924;226;manual group
+Vegetables;squash;False;acorn squash;26;186;manual group
+Vegetables;squash;False;squash;6787;105;manual group
+Vegetables;sun-dried tomato;False;sun-dried tomato;6926;794;own item (>= 300 recipes)
+Vegetables;sweet potato;False;sweet potato;6987;1613;own item (>= 300 recipes)
+Vegetables;tomato;False;tomato;7213;10441;manual group
+Vegetables;tomato;False;cherry tomato;1223;1349;manual group
+Vegetables;tomato;False;plum tomato;5519;1125;manual group
+Vegetables;tomato;False;chopped tomato;1480;1007;manual group
+Vegetables;tomato;False;roma tomato;6160;803;manual group
+Vegetables;tomato;False;grape tomato;3365;472;manual group
+Vegetables;tomato;False;beefsteak tomato;506;61;manual group
+Vegetables;vegetable;False;vegetable;7545;314;own item (>= 300 recipes)
+Vegetables;water chestnut;False;water chestnut;7656;517;own item (>= 300 recipes)
+Vegetables;zucchini;False;zucchini;8021;3652;own item (>= 300 recipes)
