@@ -1,0 +1,458 @@
+﻿group;ingredient;recipes;decision;merge_into;reason;source
+allspice;whole allspice;98;keep;;'whole' may change the food or its nutrition;automatic name rule
+allspice;ground allspice;894;keep;;'ground' may change the food or its nutrition;automatic name rule
+allspice;allspice;1171;target;;the name the others are merged into;automatic name rule
+almond;whole almond;132;keep;;'whole' may change the food or its nutrition;automatic name rule
+almond;ground almond;232;keep;;'ground' may change the food or its nutrition;automatic name rule
+almond;almond;1303;target;;the name the others are merged into;automatic name rule
+apple;dried apple;73;keep;;'dried' may change the food or its nutrition;automatic name rule
+apple;apple;3034;target;;the name the others are merged into;automatic name rule
+apricot;apricot;118;target;;the name the others are merged into;automatic name rule
+apricot;dried apricot;727;keep;;'dried' may change the food or its nutrition;automatic name rule
+asparagus;fresh asparagus;323;merge;asparagus;only descriptive word(s) differ: fresh;automatic name rule
+asparagus;asparagus;856;target;;the name the others are merged into;automatic name rule
+bacon;bacon;5480;target;;the name the others are merged into;automatic name rule
+bacon;cooked bacon;449;keep;;'cooked' may change the food or its nutrition;automatic name rule
+balsamic vinegar;balsamic vinegar;3027;target;;the name the others are merged into;automatic name rule
+balsamic vinegar;white balsamic vinegar;102;keep;;'white' may change the food or its nutrition;automatic name rule
+basil;dry basil;79;keep;;'dry' may change the food or its nutrition;automatic name rule
+basil;dried basil;2609;keep;;'dried' may change the food or its nutrition;automatic name rule
+basil;fresh basil;2895;merge;basil;only descriptive word(s) differ: fresh;automatic name rule
+basil;sweet basil;90;keep;;'sweet' may change the food or its nutrition;automatic name rule
+basil;basil;2131;target;;the name the others are merged into;automatic name rule
+basil leaf;dried basil leaf;215;keep;;'dried' may change the food or its nutrition;automatic name rule
+basil leaf;fresh basil leaf;1098;merge;basil leaf;only descriptive word(s) differ: fresh;automatic name rule
+basil leaf;basil leaf;742;target;;the name the others are merged into;automatic name rule
+basmati rice;cooked basmati rice;56;keep;;'cooked' may change the food or its nutrition;automatic name rule
+basmati rice;basmati rice;380;target;;the name the others are merged into;automatic name rule
+bean;bean;247;target;;the name the others are merged into;automatic name rule
+bean;white bean;245;keep;;'white' may change the food or its nutrition;automatic name rule
+bean sprout;fresh bean sprout;84;merge;bean sprout;only descriptive word(s) differ: fresh;automatic name rule
+bean sprout;bean sprout;435;target;;the name the others are merged into;automatic name rule
+beef;ground beef;4732;keep;;'ground' may change the food or its nutrition;automatic name rule
+beef;dried beef;75;keep;;'dried' may change the food or its nutrition;automatic name rule
+beef;cooked beef;64;keep;;'cooked' may change the food or its nutrition;automatic name rule
+black bean;black bean;1939;target;;the name the others are merged into;automatic name rule
+black bean;dried black bean;81;keep;;'dried' may change the food or its nutrition;automatic name rule
+black pepper;fresh ground black pepper;5194;keep;;'ground' may change the food or its nutrition;automatic name rule
+black pepper;ground black pepper;2903;keep;;'ground' may change the food or its nutrition;automatic name rule
+black pepper;fresh black pepper;132;merge;black pepper;only descriptive word(s) differ: fresh;automatic name rule
+black pepper;black pepper;10077;target;;the name the others are merged into;automatic name rule
+black peppercorn;whole black peppercorn;137;keep;;'whole' may change the food or its nutrition;automatic name rule
+black peppercorn;black peppercorn;495;target;;the name the others are merged into;automatic name rule
+blackberry;fresh blackberry;98;merge;blackberry;only descriptive word(s) differ: fresh;automatic name rule
+blackberry;blackberry;199;target;;the name the others are merged into;automatic name rule
+blueberry;dried blueberry;50;keep;;'dried' may change the food or its nutrition;automatic name rule
+blueberry;fresh blueberry;579;merge;blueberry;only descriptive word(s) differ: fresh;automatic name rule
+blueberry;blueberry;985;target;;the name the others are merged into;automatic name rule
+bread;white bread;832;keep;;'white' may change the food or its nutrition;automatic name rule
+bread;bread;1529;target;;the name the others are merged into;automatic name rule
+bread flour;white bread flour;105;keep;;'white' may change the food or its nutrition;automatic name rule
+bread flour;bread flour;722;target;;the name the others are merged into;automatic name rule
+breadcrumb;breadcrumb;2292;target;;the name the others are merged into;automatic name rule
+breadcrumb;fresh breadcrumb;499;merge;breadcrumb;only descriptive word(s) differ: fresh;automatic name rule
+breadcrumb;fresh white breadcrumb;64;keep;;'white' may change the food or its nutrition;automatic name rule
+breadcrumb;dry breadcrumb;832;keep;;'dry' may change the food or its nutrition;automatic name rule
+breadcrumb;plain breadcrumb;300;merge;breadcrumb;only descriptive word(s) differ: plain;automatic name rule
+breadcrumb;dried breadcrumb;215;keep;;'dried' may change the food or its nutrition;automatic name rule
+broccoli;fresh broccoli;235;merge;broccoli;only descriptive word(s) differ: fresh;automatic name rule
+broccoli;broccoli;1268;target;;the name the others are merged into;automatic name rule
+broccoli floret;fresh broccoli floret;163;merge;broccoli floret;only descriptive word(s) differ: fresh;automatic name rule
+broccoli floret;broccoli floret;1011;target;;the name the others are merged into;automatic name rule
+brown rice;brown rice;539;target;;the name the others are merged into;automatic name rule
+brown rice;cooked brown rice;345;keep;;'cooked' may change the food or its nutrition;automatic name rule
+brussels sprout;fresh brussels sprout;54;merge;brussels sprout;only descriptive word(s) differ: fresh;automatic name rule
+brussels sprout;brussels sprout;333;target;;the name the others are merged into;automatic name rule
+butter;sweet unsalted butter;57;keep;;'sweet' may change the food or its nutrition;automatic name rule
+butter;butter;43970;target;;the name the others are merged into;automatic name rule
+butter;real butter;93;merge;butter;only descriptive word(s) differ: real;automatic name rule
+butter;unsalted butter;5414;merge;butter;only descriptive word(s) differ: unsalted;automatic name rule
+butter;sweet butter;109;keep;;'sweet' may change the food or its nutrition;automatic name rule
+buttermilk;dry buttermilk;50;keep;;'dry' may change the food or its nutrition;automatic name rule
+buttermilk;buttermilk;3172;target;;the name the others are merged into;automatic name rule
+button mushroom;white button mushroom;109;keep;;'white' may change the food or its nutrition;automatic name rule
+button mushroom;button mushroom;653;target;;the name the others are merged into;automatic name rule
+canned tomato;whole canned tomato;84;keep;;'whole' may change the food or its nutrition;automatic name rule
+canned tomato;canned tomato;305;target;;the name the others are merged into;automatic name rule
+cardamom;ground cardamom;620;keep;;'ground' may change the food or its nutrition;automatic name rule
+cardamom;cardamom;309;target;;the name the others are merged into;automatic name rule
+carrot;carrot;10559;target;;the name the others are merged into;automatic name rule
+carrot;fresh carrot;70;merge;carrot;only descriptive word(s) differ: fresh;automatic name rule
+cashew;unsalted cashew;53;merge;cashew;only descriptive word(s) differ: unsalted;automatic name rule
+cashew;cashew;443;target;;the name the others are merged into;automatic name rule
+cayenne pepper;ground cayenne pepper;305;keep;;'ground' may change the food or its nutrition;automatic name rule
+cayenne pepper;cayenne pepper;4696;target;;the name the others are merged into;automatic name rule
+cherry;cherry;240;target;;the name the others are merged into;automatic name rule
+cherry;dried cherry;237;keep;;'dried' may change the food or its nutrition;automatic name rule
+chicken;chicken;1851;target;;the name the others are merged into;automatic name rule
+chicken;ground chicken;298;keep;;'ground' may change the food or its nutrition;automatic name rule
+chicken;cooked chicken;1652;keep;;'cooked' may change the food or its nutrition;automatic name rule
+chicken;whole chicken;347;keep;;'whole' may change the food or its nutrition;automatic name rule
+chicken breast;cooked chicken breast;553;keep;;'cooked' may change the food or its nutrition;automatic name rule
+chicken breast;whole chicken breast;99;keep;;'whole' may change the food or its nutrition;automatic name rule
+chicken breast;chicken breast;7910;target;;the name the others are merged into;automatic name rule
+chili;chili;360;target;;the name the others are merged into;automatic name rule
+chili;dried chili;53;keep;;'dried' may change the food or its nutrition;automatic name rule
+chili;dried chili;55;keep;;'dried' may change the food or its nutrition;automatic name rule
+chili;chili;168;target;;the name the others are merged into;automatic name rule
+chili pepper;fresh chili pepper;78;merge;chili pepper;only descriptive word(s) differ: fresh;automatic name rule
+chili pepper;chili pepper;289;target;;the name the others are merged into;automatic name rule
+chili pepper flake;dried chili pepper flake;170;keep;;'dried' may change the food or its nutrition;automatic name rule
+chili pepper flake;chili pepper flake;84;target;;the name the others are merged into;automatic name rule
+chive;dried chive;113;keep;;'dried' may change the food or its nutrition;automatic name rule
+chive;fresh chive;1104;merge;chive;only descriptive word(s) differ: fresh;automatic name rule
+chive;chive;1416;target;;the name the others are merged into;automatic name rule
+chocolate;chocolate;834;target;;the name the others are merged into;automatic name rule
+chocolate;white chocolate;322;keep;;'white' may change the food or its nutrition;automatic name rule
+chocolate chip;chocolate chip;4232;target;;the name the others are merged into;automatic name rule
+chocolate chip;white chocolate chip;476;keep;;'white' may change the food or its nutrition;automatic name rule
+cilantro;dried cilantro;121;keep;;'dried' may change the food or its nutrition;automatic name rule
+cilantro;fresh cilantro;3244;merge;cilantro;only descriptive word(s) differ: fresh;automatic name rule
+cilantro;cilantro;2702;target;;the name the others are merged into;automatic name rule
+cilantro leaf;fresh cilantro leaf;340;merge;cilantro leaf;only descriptive word(s) differ: fresh;automatic name rule
+cilantro leaf;cilantro leaf;413;target;;the name the others are merged into;automatic name rule
+cinnamon;ground cinnamon;5098;keep;;'ground' may change the food or its nutrition;automatic name rule
+cinnamon;cinnamon;9958;target;;the name the others are merged into;automatic name rule
+clove;ground clove;1653;keep;;'ground' may change the food or its nutrition;automatic name rule
+clove;whole clove;509;keep;;'whole' may change the food or its nutrition;automatic name rule
+clove;clove;1450;target;;the name the others are merged into;automatic name rule
+coarse black pepper;fresh coarse ground black pepper;602;keep;;'ground' may change the food or its nutrition;automatic name rule
+coarse black pepper;coarse black pepper;130;target;;the name the others are merged into;automatic name rule
+coffee;ground coffee;66;keep;;'ground' may change the food or its nutrition;automatic name rule
+coffee;coffee;327;target;;the name the others are merged into;automatic name rule
+coriander;fresh coriander;509;merge;coriander;only descriptive word(s) differ: fresh;automatic name rule
+coriander;ground coriander;1439;keep;;'ground' may change the food or its nutrition;automatic name rule
+coriander;coriander;816;target;;the name the others are merged into;automatic name rule
+coriander leaf;fresh coriander leaf;152;merge;coriander leaf;only descriptive word(s) differ: fresh;automatic name rule
+coriander leaf;coriander leaf;273;target;;the name the others are merged into;automatic name rule
+corn;white corn;75;keep;;'white' may change the food or its nutrition;automatic name rule
+corn;sweet corn;174;keep;;'sweet' may change the food or its nutrition;automatic name rule
+corn;corn;1610;target;;the name the others are merged into;automatic name rule
+corn;fresh corn;148;merge;corn;only descriptive word(s) differ: fresh;automatic name rule
+corn kernel;fresh corn kernel;141;merge;corn kernel;only descriptive word(s) differ: fresh;automatic name rule
+corn kernel;corn kernel;420;target;;the name the others are merged into;automatic name rule
+corn syrup;white corn syrup;103;keep;;'white' may change the food or its nutrition;automatic name rule
+corn syrup;corn syrup;523;target;;the name the others are merged into;automatic name rule
+crabmeat;fresh crabmeat;53;merge;crabmeat;only descriptive word(s) differ: fresh;automatic name rule
+crabmeat;crabmeat;565;target;;the name the others are merged into;automatic name rule
+cracked pepper;fresh cracked pepper;76;merge;cracked pepper;only descriptive word(s) differ: fresh;automatic name rule
+cracked pepper;cracked pepper;158;target;;the name the others are merged into;automatic name rule
+cranberry;cranberry;478;target;;the name the others are merged into;automatic name rule
+cranberry;fresh cranberry;432;merge;cranberry;only descriptive word(s) differ: fresh;automatic name rule
+cranberry;dried cranberry;1050;keep;;'dried' may change the food or its nutrition;automatic name rule
+cumin;ground cumin;4619;keep;;'ground' may change the food or its nutrition;automatic name rule
+cumin;cumin;3137;target;;the name the others are merged into;automatic name rule
+cumin seed;whole cumin seed;54;keep;;'whole' may change the food or its nutrition;automatic name rule
+cumin seed;cumin seed;754;target;;the name the others are merged into;automatic name rule
+currant;dried currant;127;keep;;'dried' may change the food or its nutrition;automatic name rule
+currant;currant;243;target;;the name the others are merged into;automatic name rule
+dill;fresh dill;1168;merge;dill;only descriptive word(s) differ: fresh;automatic name rule
+dill;dried dill;350;keep;;'dried' may change the food or its nutrition;automatic name rule
+dill;dill;533;target;;the name the others are merged into;automatic name rule
+dill weed;dried dill weed;279;keep;;'dried' may change the food or its nutrition;automatic name rule
+dill weed;fresh dill weed;73;merge;dill weed;only descriptive word(s) differ: fresh;automatic name rule
+dill weed;dill weed;617;target;;the name the others are merged into;automatic name rule
+egg;egg white;3531;keep;;'white' may change the food or its nutrition;automatic name rule
+egg;egg;39064;target;;the name the others are merged into;automatic name rule
+egg noodle;cooked egg noodle;57;keep;;'cooked' may change the food or its nutrition;automatic name rule
+egg noodle;egg noodle;586;target;;the name the others are merged into;automatic name rule
+fennel;ground fennel;64;keep;;'ground' may change the food or its nutrition;automatic name rule
+fennel;fennel;111;target;;the name the others are merged into;automatic name rule
+fig;fresh fig;77;merge;fig;only descriptive word(s) differ: fresh;automatic name rule
+fig;dried fig;125;keep;;'dried' may change the food or its nutrition;automatic name rule
+fig;fig;66;target;;the name the others are merged into;automatic name rule
+fine breadcrumb;fine dry breadcrumb;246;keep;;'dry' may change the food or its nutrition;automatic name rule
+fine breadcrumb;fine breadcrumb;133;target;;the name the others are merged into;automatic name rule
+fish fillet;fish fillet;326;target;;the name the others are merged into;automatic name rule
+fish fillet;white fish fillet;228;keep;;'white' may change the food or its nutrition;automatic name rule
+flax seed;ground flax seed;219;keep;;'ground' may change the food or its nutrition;automatic name rule
+flax seed;flax seed;238;target;;the name the others are merged into;automatic name rule
+flour;white flour;404;merge;flour;reviewed exception: same food in practice;automatic name rule
+flour;all-purpose flour;12580;merge;flour;only descriptive word(s) differ: all-purpose;automatic name rule
+flour;flour;20771;target;;the name the others are merged into;automatic name rule
+flour;all-purpose white flour;52;keep;;'white' may change the food or its nutrition;automatic name rule
+flour;plain flour;979;merge;flour;only descriptive word(s) differ: plain;automatic name rule
+fruit;fresh fruit;158;merge;fruit;only descriptive word(s) differ: fresh;automatic name rule
+fruit;dried fruit;139;keep;;'dried' may change the food or its nutrition;automatic name rule
+fruit;fruit;191;target;;the name the others are merged into;automatic name rule
+garlic;fresh garlic;750;merge;garlic;only descriptive word(s) differ: fresh;automatic name rule
+garlic;garlic;14312;target;;the name the others are merged into;automatic name rule
+garlic clove;fresh garlic clove;324;merge;garlic clove;only descriptive word(s) differ: fresh;automatic name rule
+ginger;ground ginger;2810;keep;;'ground' may change the food or its nutrition;automatic name rule
+ginger;fresh ginger;3256;merge;ginger;only descriptive word(s) differ: fresh;automatic name rule
+ginger;ginger;2797;target;;the name the others are merged into;automatic name rule
+gingerroot;fresh gingerroot;491;merge;gingerroot;only descriptive word(s) differ: fresh;automatic name rule
+gingerroot;gingerroot;1097;target;;the name the others are merged into;automatic name rule
+goat cheese;goat cheese;560;target;;the name the others are merged into;automatic name rule
+goat cheese;fresh goat cheese;55;merge;goat cheese;only descriptive word(s) differ: fresh;automatic name rule
+green bean;green bean;1363;target;;the name the others are merged into;automatic name rule
+green bean;fresh green bean;503;merge;green bean;only descriptive word(s) differ: fresh;automatic name rule
+green chili;whole green chili;69;keep;;'whole' may change the food or its nutrition;automatic name rule
+green chili;green chili;1466;target;;the name the others are merged into;automatic name rule
+green chili;green chili;269;target;;the name the others are merged into;automatic name rule
+green pepper;sweet green pepper;110;keep;;'sweet' may change the food or its nutrition;automatic name rule
+green pepper;green sweet pepper;61;keep;;'sweet' may change the food or its nutrition;automatic name rule
+green pepper;green pepper;4350;target;;the name the others are merged into;automatic name rule
+ham;cooked ham;727;keep;;'cooked' may change the food or its nutrition;automatic name rule
+ham;ham;1408;target;;the name the others are merged into;automatic name rule
+herb;herb;183;target;;the name the others are merged into;automatic name rule
+herb;dried herb;120;keep;;'dried' may change the food or its nutrition;automatic name rule
+herb;fresh herb;211;merge;herb;only descriptive word(s) differ: fresh;automatic name rule
+hungarian paprika;sweet hungarian paprika;78;keep;;'sweet' may change the food or its nutrition;automatic name rule
+hungarian paprika;hungarian paprika;103;target;;the name the others are merged into;automatic name rule
+italian herb seasoning;dried italian herb seasoning;62;keep;;'dried' may change the food or its nutrition;automatic name rule
+italian herb seasoning;italian herb seasoning;75;target;;the name the others are merged into;automatic name rule
+italian parsley;fresh italian parsley;302;merge;italian parsley;only descriptive word(s) differ: fresh;automatic name rule
+italian parsley;italian parsley;290;target;;the name the others are merged into;automatic name rule
+italian seasoning;dried italian seasoning;279;keep;;'dried' may change the food or its nutrition;automatic name rule
+italian seasoning;italian seasoning;1618;target;;the name the others are merged into;automatic name rule
+jalapeno;fresh jalapeno;128;merge;jalapeno;only descriptive word(s) differ: fresh;automatic name rule
+jalapeno;jalapeno;1362;target;;the name the others are merged into;automatic name rule
+jalapeno pepper;fresh jalapeno pepper;151;merge;jalapeno pepper;only descriptive word(s) differ: fresh;automatic name rule
+jalapeno pepper;jalapeno pepper;1658;target;;the name the others are merged into;automatic name rule
+kalamata olive;kalamata olive;510;target;;the name the others are merged into;automatic name rule
+kalamata olive;kalamata olive;311;target;;the name the others are merged into;automatic name rule
+kernel corn;whole kernel corn;615;keep;;'whole' may change the food or its nutrition;automatic name rule
+kernel corn;kernel corn;60;target;;the name the others are merged into;automatic name rule
+lamb;lamb;153;target;;the name the others are merged into;automatic name rule
+lamb;ground lamb;202;keep;;'ground' may change the food or its nutrition;automatic name rule
+lean beef;lean ground beef;2528;keep;;'ground' may change the food or its nutrition;automatic name rule
+lean beef;lean beef;83;target;;the name the others are merged into;automatic name rule
+lean pork;lean pork;117;target;;the name the others are merged into;automatic name rule
+lean pork;ground lean pork;119;keep;;'ground' may change the food or its nutrition;automatic name rule
+lemon;lemon;2927;target;;the name the others are merged into;automatic name rule
+lemon;fresh lemon;76;merge;lemon;only descriptive word(s) differ: fresh;automatic name rule
+lemon juice;fresh lemon juice;4061;merge;lemon juice;only descriptive word(s) differ: fresh;automatic name rule
+lemon juice;lemon juice;11185;target;;the name the others are merged into;automatic name rule
+lemon rind;fresh lemon rind;322;merge;lemon rind;only descriptive word(s) differ: fresh;automatic name rule
+lemon rind;lemon rind;533;target;;the name the others are merged into;automatic name rule
+lemon zest;fresh lemon zest;85;merge;lemon zest;only descriptive word(s) differ: fresh;automatic name rule
+lemon zest;lemon zest;1432;target;;the name the others are merged into;automatic name rule
+lemongras;fresh lemongras;62;merge;lemongras;only descriptive word(s) differ: fresh;automatic name rule
+lemongras;lemongras;336;target;;the name the others are merged into;automatic name rule
+lentil;dried lentil;134;keep;;'dried' may change the food or its nutrition;automatic name rule
+lentil;dry lentil;75;keep;;'dry' may change the food or its nutrition;automatic name rule
+lentil;lentil;365;target;;the name the others are merged into;automatic name rule
+lime juice;fresh lime juice;1800;merge;lime juice;only descriptive word(s) differ: fresh;automatic name rule
+lime juice;lime juice;2817;target;;the name the others are merged into;automatic name rule
+long grain rice;long grain white rice;164;keep;;'white' may change the food or its nutrition;automatic name rule
+long grain rice;long grain rice;541;target;;the name the others are merged into;automatic name rule
+long-grain rice;cooked long-grain rice;109;keep;;'cooked' may change the food or its nutrition;automatic name rule
+long-grain rice;long-grain white rice;205;keep;;'white' may change the food or its nutrition;automatic name rule
+long-grain rice;long-grain rice;289;target;;the name the others are merged into;automatic name rule
+macaroni;cooked macaroni;58;keep;;'cooked' may change the food or its nutrition;automatic name rule
+macaroni;macaroni;417;target;;the name the others are merged into;automatic name rule
+mace;ground mace;111;keep;;'ground' may change the food or its nutrition;automatic name rule
+mace;mace;145;target;;the name the others are merged into;automatic name rule
+mango;fresh mango;54;merge;mango;only descriptive word(s) differ: fresh;automatic name rule
+mango;mango;840;target;;the name the others are merged into;automatic name rule
+maple syrup;maple syrup;1591;target;;the name the others are merged into;automatic name rule
+maple syrup;pure maple syrup;336;merge;maple syrup;only descriptive word(s) differ: pure;automatic name rule
+maple syrup;real maple syrup;81;merge;maple syrup;only descriptive word(s) differ: real;automatic name rule
+marjoram;fresh marjoram;100;merge;marjoram;only descriptive word(s) differ: fresh;automatic name rule
+marjoram;dried marjoram;410;keep;;'dried' may change the food or its nutrition;automatic name rule
+marjoram;marjoram;425;target;;the name the others are merged into;automatic name rule
+mashed potato;mashed sweet potato;73;keep;;'sweet' may change the food or its nutrition;automatic name rule
+mashed potato;mashed potato;514;target;;the name the others are merged into;automatic name rule
+milk;milk;22063;target;;the name the others are merged into;automatic name rule
+milk;dry milk;110;keep;;'dry' may change the food or its nutrition;automatic name rule
+milk;whole milk;1205;merge;milk;reviewed exception: same food in practice;automatic name rule
+mint;dried mint;142;keep;;'dried' may change the food or its nutrition;automatic name rule
+mint;mint;412;target;;the name the others are merged into;automatic name rule
+mint leaf;fresh mint leaf;491;merge;mint leaf;only descriptive word(s) differ: fresh;automatic name rule
+mint leaf;mint leaf;500;target;;the name the others are merged into;automatic name rule
+mushroom;whole mushroom;75;keep;;'whole' may change the food or its nutrition;automatic name rule
+mushroom;white mushroom;230;keep;;'white' may change the food or its nutrition;automatic name rule
+mushroom;fresh mushroom;1734;merge;mushroom;only descriptive word(s) differ: fresh;automatic name rule
+mushroom;mushroom;3816;target;;the name the others are merged into;automatic name rule
+mustard;dry mustard;2332;keep;;'dry' may change the food or its nutrition;automatic name rule
+mustard;dried mustard;76;keep;;'dried' may change the food or its nutrition;automatic name rule
+mustard;mustard;2315;target;;the name the others are merged into;automatic name rule
+mustard;ground mustard;351;keep;;'ground' may change the food or its nutrition;automatic name rule
+navy bean;navy bean;159;target;;the name the others are merged into;automatic name rule
+navy bean;dried navy bean;69;keep;;'dried' may change the food or its nutrition;automatic name rule
+noodle;noodle;341;target;;the name the others are merged into;automatic name rule
+noodle;cooked noodle;67;keep;;'cooked' may change the food or its nutrition;automatic name rule
+nutmeg;fresh nutmeg;57;merge;nutmeg;only descriptive word(s) differ: fresh;automatic name rule
+nutmeg;ground nutmeg;2168;keep;;'ground' may change the food or its nutrition;automatic name rule
+nutmeg;nutmeg;4766;target;;the name the others are merged into;automatic name rule
+olive;olive;385;target;;the name the others are merged into;automatic name rule
+olive;olive;286;target;;the name the others are merged into;automatic name rule
+onion;white onion;1090;merge;onion;reviewed exception: same food in practice;automatic name rule
+onion;sweet onion;1280;keep;;'sweet' may change the food or its nutrition;automatic name rule
+onion;fresh onion;53;merge;onion;only descriptive word(s) differ: fresh;automatic name rule
+onion;dried onion;179;keep;;'dried' may change the food or its nutrition;automatic name rule
+onion;onion;39143;target;;the name the others are merged into;automatic name rule
+onion flake;dried onion flake;528;keep;;'dried' may change the food or its nutrition;automatic name rule
+onion flake;onion flake;155;target;;the name the others are merged into;automatic name rule
+onion soup mix;onion soup mix;682;target;;the name the others are merged into;automatic name rule
+onion soup mix;dry onion soup mix;388;keep;;'dry' may change the food or its nutrition;automatic name rule
+orange juice;orange juice;3523;target;;the name the others are merged into;automatic name rule
+orange juice;fresh orange juice;536;merge;orange juice;only descriptive word(s) differ: fresh;automatic name rule
+oregano;dry oregano;72;keep;;'dry' may change the food or its nutrition;automatic name rule
+oregano;fresh oregano;725;merge;oregano;only descriptive word(s) differ: fresh;automatic name rule
+oregano;dried oregano;3730;keep;;'dried' may change the food or its nutrition;automatic name rule
+oregano;ground oregano;89;keep;;'ground' may change the food or its nutrition;automatic name rule
+oregano;oregano;3247;target;;the name the others are merged into;automatic name rule
+oregano leaf;dried oregano leaf;273;keep;;'dried' may change the food or its nutrition;automatic name rule
+oregano leaf;oregano leaf;236;target;;the name the others are merged into;automatic name rule
+paprika;ground paprika;63;keep;;'ground' may change the food or its nutrition;automatic name rule
+paprika;sweet paprika;345;keep;;'sweet' may change the food or its nutrition;automatic name rule
+paprika;paprika;6185;target;;the name the others are merged into;automatic name rule
+parmesan cheese;parmesan cheese;12025;target;;the name the others are merged into;automatic name rule
+parmesan cheese;fresh parmesan cheese;336;merge;parmesan cheese;only descriptive word(s) differ: fresh;automatic name rule
+parsley;dried parsley;997;keep;;'dried' may change the food or its nutrition;automatic name rule
+parsley;fresh parsley;6145;merge;parsley;only descriptive word(s) differ: fresh;automatic name rule
+parsley;parsley;5494;target;;the name the others are merged into;automatic name rule
+parsley flake;dried parsley flake;400;keep;;'dried' may change the food or its nutrition;automatic name rule
+parsley flake;parsley flake;503;target;;the name the others are merged into;automatic name rule
+pasta;dry pasta;83;keep;;'dry' may change the food or its nutrition;automatic name rule
+pasta;cooked pasta;124;keep;;'cooked' may change the food or its nutrition;automatic name rule
+pasta;pasta;912;target;;the name the others are merged into;automatic name rule
+pea;pea;494;target;;the name the others are merged into;automatic name rule
+pea;sweet pea;52;keep;;'sweet' may change the food or its nutrition;automatic name rule
+pea;fresh pea;81;merge;pea;only descriptive word(s) differ: fresh;automatic name rule
+peach;fresh peach;198;merge;peach;only descriptive word(s) differ: fresh;automatic name rule
+peach;peach;880;target;;the name the others are merged into;automatic name rule
+peanut;unsalted peanut;88;merge;peanut;only descriptive word(s) differ: unsalted;automatic name rule
+peanut;peanut;749;target;;the name the others are merged into;automatic name rule
+penne pasta;dry penne pasta;59;keep;;'dry' may change the food or its nutrition;automatic name rule
+penne pasta;penne pasta;563;target;;the name the others are merged into;automatic name rule
+pepper;fresh ground white pepper;74;keep;;'ground' may change the food or its nutrition;automatic name rule
+pepper;ground pepper;852;keep;;'ground' may change the food or its nutrition;automatic name rule
+pepper;sweet pepper;115;keep;;'sweet' may change the food or its nutrition;automatic name rule
+pepper;fresh ground pepper;2492;keep;;'ground' may change the food or its nutrition;automatic name rule
+pepper;white pepper;2094;keep;;'white' may change the food or its nutrition;automatic name rule
+pepper;pepper;18522;target;;the name the others are merged into;automatic name rule
+pimento stuffed olive;pimento stuffed olive;69;target;;the name the others are merged into;automatic name rule
+pimento stuffed olive;pimento stuffed olive;144;target;;the name the others are merged into;automatic name rule
+pineapple;fresh pineapple;282;merge;pineapple;only descriptive word(s) differ: fresh;automatic name rule
+pineapple;pineapple;526;target;;the name the others are merged into;automatic name rule
+pineapple chunk;fresh pineapple chunk;52;merge;pineapple chunk;only descriptive word(s) differ: fresh;automatic name rule
+pineapple chunk;pineapple chunk;559;target;;the name the others are merged into;automatic name rule
+pinto bean;pinto bean;563;target;;the name the others are merged into;automatic name rule
+pinto bean;dried pinto bean;73;keep;;'dried' may change the food or its nutrition;automatic name rule
+pork;cooked pork;53;keep;;'cooked' may change the food or its nutrition;automatic name rule
+pork;ground pork;580;keep;;'ground' may change the food or its nutrition;automatic name rule
+pork;pork;320;target;;the name the others are merged into;automatic name rule
+potato;white potato;180;keep;;'white' may change the food or its nutrition;automatic name rule
+potato;sweet potato;1615;keep;;'sweet' may change the food or its nutrition;automatic name rule
+potato;potato;6457;target;;the name the others are merged into;automatic name rule
+raspberry;fresh raspberry;366;merge;raspberry;only descriptive word(s) differ: fresh;automatic name rule
+raspberry;raspberry;423;target;;the name the others are merged into;automatic name rule
+red bell pepper;red sweet bell pepper;77;keep;;'sweet' may change the food or its nutrition;automatic name rule
+red bell pepper;red bell pepper;4240;target;;the name the others are merged into;automatic name rule
+red chili;dried red chili;137;keep;;'dried' may change the food or its nutrition;automatic name rule
+red chili;red chili;268;target;;the name the others are merged into;automatic name rule
+red pepper;ground red pepper;781;keep;;'ground' may change the food or its nutrition;automatic name rule
+red pepper;sweet red pepper;686;keep;;'sweet' may change the food or its nutrition;automatic name rule
+red pepper;red pepper;2223;target;;the name the others are merged into;automatic name rule
+red pepper flake;dried red pepper flake;160;keep;;'dried' may change the food or its nutrition;automatic name rule
+red pepper flake;red pepper flake;1951;target;;the name the others are merged into;automatic name rule
+red wine;red wine;1119;target;;the name the others are merged into;automatic name rule
+red wine;dry red wine;701;keep;;'dry' may change the food or its nutrition;automatic name rule
+relish;sweet relish;68;keep;;'sweet' may change the food or its nutrition;automatic name rule
+relish;relish;59;target;;the name the others are merged into;automatic name rule
+rhubarb;fresh rhubarb;66;merge;rhubarb;only descriptive word(s) differ: fresh;automatic name rule
+rhubarb;rhubarb;354;target;;the name the others are merged into;automatic name rule
+rice;rice;1228;target;;the name the others are merged into;automatic name rule
+rice;white rice;463;merge;rice;reviewed exception: same food in practice;automatic name rule
+rice;cooked white rice;256;keep;;'cooked' may change the food or its nutrition;automatic name rule
+rice;cooked rice;1371;keep;;'cooked' may change the food or its nutrition;automatic name rule
+roasted peanut;unsalted dry roasted peanut;53;keep;;'dry' may change the food or its nutrition;automatic name rule
+roasted peanut;dry roasted peanut;180;keep;;'dry' may change the food or its nutrition;automatic name rule
+roasted peanut;roasted peanut;169;target;;the name the others are merged into;automatic name rule
+rosemary;fresh rosemary;1329;merge;rosemary;only descriptive word(s) differ: fresh;automatic name rule
+rosemary;dried rosemary;910;keep;;'dried' may change the food or its nutrition;automatic name rule
+rosemary;rosemary;1124;target;;the name the others are merged into;automatic name rule
+rosemary leaf;dried rosemary leaf;69;keep;;'dried' may change the food or its nutrition;automatic name rule
+rosemary leaf;fresh rosemary leaf;147;target;;the name the others are merged into;automatic name rule
+sage;fresh sage;405;merge;sage;only descriptive word(s) differ: fresh;automatic name rule
+sage;dried sage;369;keep;;'dried' may change the food or its nutrition;automatic name rule
+sage;ground sage;176;keep;;'ground' may change the food or its nutrition;automatic name rule
+sage;sage;583;target;;the name the others are merged into;automatic name rule
+sage leaf;fresh sage leaf;166;merge;sage leaf;only descriptive word(s) differ: fresh;automatic name rule
+sage leaf;sage leaf;125;target;;the name the others are merged into;automatic name rule
+salt & pepper;salt & fresh ground pepper;326;keep;;'ground' may change the food or its nutrition;automatic name rule
+salt & pepper;salt & pepper;1752;target;;the name the others are merged into;automatic name rule
+seasoned bread crumb;seasoned dry bread crumb;161;keep;;'dry' may change the food or its nutrition;automatic name rule
+seasoned bread crumb;seasoned bread crumb;307;target;;the name the others are merged into;automatic name rule
+serrano chili;serrano chili;100;target;;the name the others are merged into;automatic name rule
+serrano chili;serrano chili;87;target;;the name the others are merged into;automatic name rule
+shiitake mushroom;fresh shiitake mushroom;77;merge;shiitake mushroom;only descriptive word(s) differ: fresh;automatic name rule
+shiitake mushroom;shiitake mushroom;247;target;;the name the others are merged into;automatic name rule
+shrimp;fresh shrimp;93;merge;shrimp;only descriptive word(s) differ: fresh;automatic name rule
+shrimp;cooked shrimp;208;keep;;'cooked' may change the food or its nutrition;automatic name rule
+shrimp;shrimp;1472;target;;the name the others are merged into;automatic name rule
+sirloin;sirloin;73;target;;the name the others are merged into;automatic name rule
+sirloin;ground sirloin;153;keep;;'ground' may change the food or its nutrition;automatic name rule
+snow pea;fresh snow pea;69;merge;snow pea;only descriptive word(s) differ: fresh;automatic name rule
+snow pea;snow pea;420;target;;the name the others are merged into;automatic name rule
+spaghetti;cooked spaghetti;83;keep;;'cooked' may change the food or its nutrition;automatic name rule
+spaghetti;spaghetti;895;target;;the name the others are merged into;automatic name rule
+spinach;fresh spinach;933;merge;spinach;only descriptive word(s) differ: fresh;automatic name rule
+spinach;spinach;997;target;;the name the others are merged into;automatic name rule
+spinach leaf;fresh spinach leaf;195;merge;spinach leaf;only descriptive word(s) differ: fresh;automatic name rule
+spinach leaf;spinach leaf;296;target;;the name the others are merged into;automatic name rule
+split pea;dried split pea;74;keep;;'dried' may change the food or its nutrition;automatic name rule
+split pea;split pea;94;target;;the name the others are merged into;automatic name rule
+strawberry;strawberry;1695;target;;the name the others are merged into;automatic name rule
+strawberry;fresh strawberry;832;merge;strawberry;only descriptive word(s) differ: fresh;automatic name rule
+sugar;granulated sugar;4244;merge;sugar;only descriptive word(s) differ: granulated;automatic name rule
+sugar;white sugar;2507;merge;sugar;reviewed exception: same food in practice;automatic name rule
+sugar;sugar;33884;target;;the name the others are merged into;automatic name rule
+tarragon;dried tarragon;377;keep;;'dried' may change the food or its nutrition;automatic name rule
+tarragon;fresh tarragon;371;merge;tarragon;only descriptive word(s) differ: fresh;automatic name rule
+tarragon;tarragon;351;target;;the name the others are merged into;automatic name rule
+thyme;ground thyme;161;keep;;'ground' may change the food or its nutrition;automatic name rule
+thyme;dried thyme;2647;keep;;'dried' may change the food or its nutrition;automatic name rule
+thyme;fresh thyme;1461;merge;thyme;only descriptive word(s) differ: fresh;automatic name rule
+thyme;thyme;2254;target;;the name the others are merged into;automatic name rule
+thyme leaf;fresh thyme leaf;173;merge;thyme leaf;only descriptive word(s) differ: fresh;automatic name rule
+thyme leaf;dried thyme leaf;288;keep;;'dried' may change the food or its nutrition;automatic name rule
+thyme leaf;thyme leaf;195;target;;the name the others are merged into;automatic name rule
+tomato;tomato;9941;target;;the name the others are merged into;automatic name rule
+tomato;whole tomato;401;keep;;'whole' may change the food or its nutrition;automatic name rule
+tomato;fresh tomato;519;merge;tomato;only descriptive word(s) differ: fresh;automatic name rule
+turkey;cooked turkey;318;keep;;'cooked' may change the food or its nutrition;automatic name rule
+turkey;ground turkey;754;keep;;'ground' may change the food or its nutrition;automatic name rule
+turkey breast;turkey breast;221;target;;the name the others are merged into;automatic name rule
+turkey breast;ground turkey breast;127;keep;;'ground' may change the food or its nutrition;automatic name rule
+turmeric;ground turmeric;554;keep;;'ground' may change the food or its nutrition;automatic name rule
+turmeric;turmeric;1346;target;;the name the others are merged into;automatic name rule
+unbleached flour;unbleached all-purpose flour;329;merge;unbleached flour;only descriptive word(s) differ: all-purpose;automatic name rule
+unbleached flour;unbleached white flour;126;keep;;'white' may change the food or its nutrition;automatic name rule
+unbleached flour;unbleached flour;348;target;;the name the others are merged into;automatic name rule
+vanilla extract;vanilla extract;7367;target;;the name the others are merged into;automatic name rule
+vanilla extract;pure vanilla extract;832;merge;vanilla extract;only descriptive word(s) differ: pure;automatic name rule
+vermouth;dry vermouth;128;keep;;'dry' may change the food or its nutrition;automatic name rule
+vermouth;vermouth;64;target;;the name the others are merged into;automatic name rule
+vinegar;white vinegar;1642;keep;;'white' may change the food or its nutrition;automatic name rule
+vinegar;vinegar;2636;target;;the name the others are merged into;automatic name rule
+walnut;walnut;4623;target;;the name the others are merged into;automatic name rule
+walnut;ground walnut;56;keep;;'ground' may change the food or its nutrition;automatic name rule
+wheat flour;whole wheat flour;2357;keep;;'whole' may change the food or its nutrition;automatic name rule
+wheat flour;white whole wheat flour;57;keep;;'white' may change the food or its nutrition;automatic name rule
+wheat flour;wheat flour;154;target;;the name the others are merged into;automatic name rule
+wine;dry white wine;2280;keep;;'dry' may change the food or its nutrition;automatic name rule
+wine;white wine;2204;keep;;'white' may change the food or its nutrition;automatic name rule
+wine;wine;138;target;;the name the others are merged into;automatic name rule
+wine vinegar;white wine vinegar;1128;keep;;'white' may change the food or its nutrition;automatic name rule
+wine vinegar;wine vinegar;240;target;;the name the others are merged into;automatic name rule
+yellow pepper;yellow sweet pepper;68;keep;;'sweet' may change the food or its nutrition;automatic name rule
+yellow pepper;yellow pepper;359;target;;the name the others are merged into;automatic name rule
+yogurt;yogurt;699;target;;the name the others are merged into;automatic name rule
+yogurt;plain yogurt;2390;merge;yogurt;only descriptive word(s) differ: plain;automatic name rule
+yogurt;yoghurt;140;merge;yogurt;spelling variant;automatic name rule
+heavy cream;cream;1644;merge;heavy cream;in reviews 'cream' means heavy / whipping cream;manual (synonym / review language)
+heavy cream;whipping cream;2286;merge;heavy cream;same product, different name;manual (synonym / review language)
+heavy cream;heavy whipping cream;664;merge;heavy cream;same product, different name;manual (synonym / review language)
+vegetable oil;oil;7927;merge;vegetable oil;in reviews 'oil' means a neutral vegetable oil;manual (synonym / review language)
+vegetable oil;cooking oil;1079;merge;vegetable oil;same product, different name;manual (synonym / review language)
+agave nectar;agave;15;merge;agave nectar;same product, different name;manual (synonym / review language)
+agave nectar;agave syrup;27;merge;agave nectar;same product, different name;manual (synonym / review language)
+stevia;truvia;3;merge;stevia;brand name of a stevia sweetener;manual (synonym / review language)
+ground beef;beef;455;merge;ground beef;in reviews 'beef' is used in ground-meat context (e.g. beef -> ground turkey);manual (synonym / review language)
+ground turkey;turkey;230;merge;ground turkey;in reviews 'turkey' is used in ground-meat context;manual (synonym / review language)
+garlic;garlic clove;27349;merge;garlic;same food, counted in cloves;manual (synonym / review language)
+garlic powder;granulated garlic;139;merge;garlic powder;granulated garlic is dried garlic, used like garlic powder (overrides the name rule);manual (synonym / review language)
