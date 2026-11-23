@@ -5,3 +5,8 @@ PP_users.csv
 ingr_map.pkl
 *.png
 venv/
+core_ingredients_from_network.csv
+substitution_edges.csv
+substitution_ingredient_ranking.csv
+validation_sample.csv
+substitution_graph.graphml
