@@ -1,0 +1,10 @@
+# Exact versions used for all results in the thesis (Python 3.14.7).
+# Install into a fresh virtual environment:  python -m venv venv  ->  venv/Scripts/pip install -r requirements.txt
+numpy==2.5.3
+pandas==3.0.6
+pyarrow==26.0.0
+matplotlib==3.11.2
+networkx==3.7
+streamlit==1.66.1
+nbconvert==7.17.1
+ipykernel==7.3.0
