@@ -10,3 +10,14 @@ substitution_edges.csv
 substitution_ingredient_ranking.csv
 validation_sample.csv
 substitution_graph.graphml
+app_data/recipes.parquet
+app_data/substitutions.csv
+app_data/pantry_items.csv
+app_data/ingredient_names.csv
+__pycache__/recommender.cpython-314.pyc
+__pycache__/pantry_rules.cpython-314.pyc
+vegetarian_check_sample.csv
+simulation_results.csv
+persona_results.csv
+meat_ingredients.csv
+persona_rescued_examples.csv
