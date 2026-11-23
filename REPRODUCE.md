@@ -8,7 +8,7 @@
    python -m venv venv
    venv/Scripts/pip install -r requirements.txt
    ```
-3. Put the Kaggle files (*Food.com Recipes and Interactions*) into this folder:
+3. Put the Kaggle files (*[Food.com Recipes and Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/data)*) into this folder:
    - `RAW_recipes.csv`
    - `RAW_interactions.csv`
    - `PP_recipes.csv`
