@@ -12,6 +12,7 @@
    - `RAW_recipes.csv`
    - `RAW_interactions.csv`
    - `PP_recipes.csv`
+   - `PP_users.csv` 
    - `ingr_map.pkl`
 
 ## 2. Run the notebooks in this order
