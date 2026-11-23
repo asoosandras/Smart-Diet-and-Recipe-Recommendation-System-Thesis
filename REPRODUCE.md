@@ -29,7 +29,7 @@ venv/Scripts/python -m jupyter nbconvert --to notebook --execute --inplace recom
 
 Then start the app with `venv/Scripts/streamlit run app.py`.
 
-## 3. Why the results are the same every time
+## 3. Results are the same every time
 
 - **No hidden randomness:**
   - every random step has a fixed seed (Louvain communities `seed=42`, network layout `seed=7`, validation sample `random_state=42`, simulation pantries `default_rng(42)`);
@@ -38,14 +38,5 @@ Then start the app with `venv/Scripts/streamlit run app.py`.
   - `merge_decisions.csv` (which ingredient names are merged);
   - `pantry_rules.py` (pantry groups, staples, categories, vegetarian rule);
   - `pantry_items.csv` (generated from the rules).
-- **Editable decision files are kept on re-run:** `merge_decisions.csv` and `pantry_items.csv` are only created if missing. Your edits are kept; delete a file to regenerate it from the rules.
-- **Fixed library versions:** `requirements.txt` pins the exact versions. Other versions will very likely give the same numbers, but only these were checked.
-
-## 4. Check performed (2026-11-04)
-
-- **`recommender.ipynb`:**
-  - run twice from scratch (with `pantry_items.csv` deleted), with different Python hash seeds (`PYTHONHASHSEED=1` and `2`);
-  - result: all 12 output files are byte-identical, figures included.
-- **`substitution_network.ipynb`:**
-  - re-run in a separate, empty folder;
-  - result: its output files are identical to the ones in this folder.
+- **Editable decision files are kept on re-run:** `merge_decisions.csv` and `pantry_items.csv` are only created if missing. Edits are kept; delete a file to regenerate it from the rules.
+- **Fixed library versions:** `requirements.txt` pins the exact versions.
