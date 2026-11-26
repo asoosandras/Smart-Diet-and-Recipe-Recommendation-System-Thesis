@@ -6,12 +6,13 @@ Smart Diet and Recipe Recommendation System Thesis, 2026
 ## 1. Setup (once)
 
 1. Install **Python 3.14**.
-2. Run:
+2. Clone the repository.
+3. Run:
    ```
    python -m venv venv
    venv/Scripts/pip install -r requirements.txt
    ```
-3. Put the Kaggle files (*[Food.com Recipes and Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/data)*) into this folder:
+4. Put the Kaggle files (*[Food.com Recipes and Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions/data)*) into this folder:
    - `RAW_recipes.csv`
    - `RAW_interactions.csv`
    - `PP_recipes.csv`
